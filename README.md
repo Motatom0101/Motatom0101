@@ -1,7 +1,10 @@
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
 
 
-Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com Cypress. Contudo, venho estudando tecnologia com conta desde 2022. Então, já estudei programação em Python, AWS, API, Linux, Git/GitHub, Redes, Monitoramento com Zabbix, SQL, Excel e Busines Intelligence. 
+Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com Cypress. Contudo, venho estudando tecnologia por conta prórpria desde 2022. Então, também já estudei programação em **Python**, **AWS**, **API**, **Linux**, **Git/GitHub**, **Redes**, Monitoramento com **Zabbix**, **SQL**, **Excel** e Busines Intelligence. 
+
+Inclusive, tive a oportunidade de atuar como estagiário de nov/2024 a mar/2025, onde atuar com ferramentas como:
+#Zabbix para monitoramento de host e demais ativos de redes
 
 No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos com todos os assuntos citados acima. Segue abaixo links para os principais artigos que escrevi sobre QA:
 
@@ -9,43 +12,43 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos co
 
 ## 🐞🔍 Artigos sobre QA:
 
-🔗[Pirâmide de Testes e Níveis de Testes de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
+🔗[**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
 
-🔗[Os 7 Princípios do Teste de Software](https://medium.com/@atom.free/os-7-princ%C3%ADpios-do-teste-de-software-d38b1aa1c30e)
+🔗[Os **7 Princípios do Teste** de Software](https://medium.com/@atom.free/os-7-princ%C3%ADpios-do-teste-de-software-d38b1aa1c30e)
 
-🔗[Teste Funcional Manual](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf)
+🔗[**Teste Funcional Manual**](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf)
 
-🔗[Teste de Software Manual: Do Planejamento à Execução — Os 7 Princípios do Teste de Software.](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-os-7-princ%C3%ADpios-do-teste-de-software-319f05763e9f)
+🔗[**Teste de Software Manual**: Do Planejamento à Execução — Os 7 Princípios do Teste de Software.](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-os-7-princ%C3%ADpios-do-teste-de-software-319f05763e9f)
 
-🔗[Teste de Software Manual: Do Planejamento à Execução — Metodologia ágil Scrum e o papel do QA em Times ágeis](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-metodologia-%C3%A1gil-scrum-e-o-papel-do-qa-em-73e6d2c9b50b)
+🔗[Teste de Software Manual: Do Planejamento à Execução — **Metodologia ágil Scrum** e o papel do QA em Times ágeis](https://medium.com/@atom.free/teste-de-software-manual-do-planejamento-%C3%A0-execu%C3%A7%C3%A3o-metodologia-%C3%A1gil-scrum-e-o-papel-do-qa-em-73e6d2c9b50b)
 
-🔗[O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af)
+🔗[O que é uma **História de Usuário?**](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af)
 
-🔗[Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49)
+🔗[**Modelo 3C** e **Personas** em **User story**](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49)
 
-🔗[User Story e refinamento do backlog em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c)
+🔗[User Story e **refinamento do backlog** em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c)
 
-🔗[O Manifesto Ágil e Estratégias de Teste de Software no Ágil.](https://medium.com/@atom.free/o-manifesto-%C3%A1gil-e-estrat%C3%A9gias-de-teste-de-software-no-%C3%A1gil-17b267a59d2a)
+🔗[O **Manifesto Ágil** e **Estratégias de Teste** de Software no Ágil.](https://medium.com/@atom.free/o-manifesto-%C3%A1gil-e-estrat%C3%A9gias-de-teste-de-software-no-%C3%A1gil-17b267a59d2a)
 
-🔗[Construindo um Processo de Teste no Ágil](https://medium.com/@atom.free/construindo-um-processo-de-teste-no-%C3%A1gil-56bc3b2c4e68)
+🔗[Construindo um **Processo de Teste no Ágil**](https://medium.com/@atom.free/construindo-um-processo-de-teste-no-%C3%A1gil-56bc3b2c4e68)
 
-🔗[Passos da Criação de uma Funcionalidade de um Produto em Um Time Ágil](https://medium.com/@atom.free/itens-da-cria%C3%A7%C3%A3o-de-uma-funcionalidade-de-um-produto-em-um-time-%C3%A1gil-211c8187c76d)
+🔗[**Criação de uma Funcionalidade de um Produto** em Um Time Ágil](https://medium.com/@atom.free/itens-da-cria%C3%A7%C3%A3o-de-uma-funcionalidade-de-um-produto-em-um-time-%C3%A1gil-211c8187c76d)
 
-🔗[Upstream, na prática!](https://medium.com/@atom.free/upstream-na-pr%C3%A1tica-a743d043032f)
+🔗[**Upstream**, na prática!](https://medium.com/@atom.free/upstream-na-pr%C3%A1tica-a743d043032f)
 
-🔗[Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+🔗[Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
 
-🔗[Hierarquias, Estruturas e Rompimento.](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62)
+🔗[**Hierarquias, Estruturas e Rompimento.(Épicos, Funcionalidades, User Story e Tarefas)**](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62)
 
-🔗[Implementando tarefas com SMART](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc)
+🔗[Implementando **tarefas com SMART**](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc)
 
-🔗[Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1)
+🔗[**Mapeamento de Users Stories**](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1)
 
-🔗[Como Dominar a Qualidade do Software do Início ao Fim — parte 1: O que é Qualidade e Teste de Software.](https://medium.com/@atom.free/como-dominar-a-qualidade-do-software-do-in%C3%ADcio-ao-fim-parte-1-o-que-%C3%A9-qualidade-e-teste-de-6c41bb9477fc)
+🔗[**Como Dominar a Qualidade do Software** do Início ao Fim — parte 1: O que é Qualidade e Teste de Software.](https://medium.com/@atom.free/como-dominar-a-qualidade-do-software-do-in%C3%ADcio-ao-fim-parte-1-o-que-%C3%A9-qualidade-e-teste-de-6c41bb9477fc)
 
-🔗[Plano de Testes — Parte 1](https://medium.com/@atom.free/plano-de-testes-parte-1-59bc66157e52)
+🔗[**Plano de Testes — Parte 1**](https://medium.com/@atom.free/plano-de-testes-parte-1-59bc66157e52)
 
-🔗[Plano de Testes — Parte 2](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
+🔗[**Plano de Testes — Parte 2**](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
 
 
 
