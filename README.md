@@ -1,7 +1,7 @@
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
 
 
-Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com Cypress. Contudo, venho estudando tecnologia por conta prórpria desde 2022. Então, também já estudei programação em **Python**, **AWS**, **API**, **Linux**, **Git/GitHub**, **Redes**, Monitoramento com **Zabbix**, **SQL**, **Excel** e Busines Intelligence. 
+Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com **Cypress**. Contudo, venho estudando tecnologia por conta prórpria desde 2022. Então, também já estudei programação em **Python**, **AWS**, **API**, **Linux**, **Git/GitHub**, **Redes**, Monitoramento com **Zabbix**, **SQL**, **Excel** e Busines Intelligence. 
 
 Inclusive, tive a oportunidade de atuar como estagiário de nov/2024 a mar/2025, onde atuar com ferramentas como:
 #Zabbix para monitoramento de host e demais ativos de redes
