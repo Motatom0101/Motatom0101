@@ -89,7 +89,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos co
 
 
 
-### Linux:
+## Linux:
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
 🔗[Linux-1: Minha iniciação ao Linux (WSL2) e programação em Shell Script](https://medium.com/@atom.free/minha-inicia%C3%A7%C3%A3o-ao-linux-wsl2-e-programa%C3%A7%C3%A3o-em-shell-script-a1225d26acde)
@@ -108,7 +108,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos co
 
 
 
-### Git/GitHub:
+## Git/GitHub:
 🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
 
 🔗[Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
@@ -129,7 +129,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos co
 
 
 
-### SQL no BigQuery:
+## SQL no BigQuery:
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
 🔗[SQL-2: Negando duas condições ao mesmo tempo com SQL no SGBD MySQL:](https://medium.com/@atom.free/negando-duas-condi%C3%A7%C3%B5es-ao-mesmo-tempo-com-sql-no-sgbd-mysql-1724b35031bb)
