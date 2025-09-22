@@ -8,7 +8,7 @@ Inclusive, tive a oportunidade de atuar como **estagiário técnico de redes de 
 
 Ao lidar com isso, percebi que estava ficando ágil no que eu estava fazendo e podia correr o risco de não ter oportunidade de atuar com o quê eu queria - em torno do código. Foi Então que descobri a área de QA e comecei a estudar a fundo, buscando consolidar os fundamentos, para depois passar para a automação. Finalmente, encontrei meu lugar na área de TI como QA. Pois, além de dar **visão ao meu senso crítico**, onde poderei analisar o construção do produto, transmitindo minha contribuição com uma comunicação assertiva, cordial, não violenta e com escuta ativa, poderei ser o curioso incurável que sou, sempre atento aos detalhes. Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, aproveitanto minha **soft skill em comunicação**, pois atuei por mais de 5 anos em telemarketing - chegando até a analista de atendimento digital -, em conjunto com tecnologia, é uma construção de ideal que estou projetanto há tempos para minha carreira.   
 
-No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos com todos os assuntos citados acima. Segue abaixo links para os principais artigos que escrevi sobre QA:
+No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tenho como base os cursos que já fiz. Segue abaixo links para os principais artigos que escrevi sobre QA:
 
 
 
