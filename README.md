@@ -3,7 +3,7 @@
 
 Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com Cypress. Contudo, venho estudando tecnologia com conta desde 2022. Então, já estudei programação em Python, AWS, API, Linux, Git/GitHub, Redes, Monitoramento com Zabbix, SQL, Excel e Busines Intelligence. 
 
-No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos com todos os assuntos citados acima. Segue abaixo links para os principais artigos técnicos que escrevi sobre QA:
+No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos com todos os assuntos citados acima. Segue abaixo links para os principais artigos que escrevi sobre QA:
 
 
 
