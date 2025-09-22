@@ -145,9 +145,9 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos co
 🔗[SQL-7(BigQuey): Função de Agregação em SQL -parte I](https://medium.com/@atom.free/fun%C3%A7%C3%A3o-de-agrega%C3%A7%C3%A3o-em-sql-parte-i-f4b3111b00dd)
 
 
-##### 🌐Portfólio e contato profissional:
-##
 
+##
+##### 🌐Portfólio e contato profissional:
 📚 [Medium](https://medium.com/@atom.free)
 
 💬 [Linkedin](https://www.linkedin.com/in/7iago-m-4a330b1bb/)
