@@ -1,3 +1,4 @@
+#
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
 
 
@@ -11,7 +12,7 @@ Ao lidar com isso, percebi que estava ficando ágil no que eu estava fazendo e c
 No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tenho como base os cursos que já fiz. Segue abaixo links para os principais artigos que escrevi sobre QA:
 
 
-
+#
 ## 🐞🔍 Artigos sobre QA:
 
 🔗[**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
@@ -53,7 +54,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[**Plano de Testes — Parte 2**](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
 
 
-
+#
 ## Programação JavaScript e Python:
 ### JS:
 🔗[JavaScript Para QA — Parte 1](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
@@ -63,7 +64,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
 
 
-
+#
 ### Python:
 🔗[Lógica de programação e Programação Orientada à Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
 
@@ -80,7 +81,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[Python e Selenium Webdriver](https://medium.com/@atom.free/python-e-selenium-webdriver-4ed2c10ea6a7)
 
 
-
+#
 ### Python, Postman e API:
 🔗[API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
 
@@ -93,7 +94,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[API_5: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-5-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-85be59d02b45)
 
 
-
+#
 ## Linux:
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
@@ -112,7 +113,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[Linux-7: Obtendo ajuda no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-7-obtendo-ajuda-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-42f0e7384bfb)
 
 
-
+#
 ## Git/GitHub:
 🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
 
@@ -133,7 +134,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
 
 
-
+#
 ## SQL no BigQuery:
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
@@ -149,6 +150,33 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 🔗[SQL-7(BigQuey): Função de Agregação em SQL -parte I](https://medium.com/@atom.free/fun%C3%A7%C3%A3o-de-agrega%C3%A7%C3%A3o-em-sql-parte-i-f4b3111b00dd)
 
+#
+## 📚 Principais cursos que realizei:
+
+[Domine Histórias de Usuário no Scrum](https://udemy-certificate.s3.amazonaws.com/image/UC-ab384c66-9e14-4599-80ed-1114d3294e75.jpg)
+
+[Lógica de Programação e Orientação a Objetos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
+
+[Formação em Redes de Computadores Módulo 2](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1a529ad7-c293-42be-ab89-c92a7390c3df.pdf)
+
+[Formação em Redes de Computadores - Módulo 1](https://udemy-certificate.s3.amazonaws.com/image/UC-97735d56-3eeb-4bd8-ae6d-1f3d4d478e5d.jpg)
+
+[Fundamentos de Redes para DevOps](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbcc596a-05b3-4e72-b051-fb5d891855f7.pdf)
+
+[AWS Lambda com Python e Serverless Framework](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0947b18a-9ff9-4008-9211-b94e3e09471d.pdf)
+
+[Linux Bootcamp: Trilha de aprendizado rápido (Devs e DevOps)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f8526e3b-b0c6-49b5-9316-7c3d2f8ed988.pdf)
+
+[Aprenda a Extrair Dados de APIs com Python do Zero!](https://udemy-certificate.s3.amazonaws.com/image/UC-ccb006b8-c4a0-4d2a-a4d5-e81c06da2c19.jpg)
+
+[Linguagem SQL para Análise de Dados com BigQuery](https://udemy-certificate.s3.amazonaws.com/image/UC-1b36f090-4428-479e-a73f-c95a05c0768a.jpg)
+
+[Análise de Dados e Negócios com Microsoft Excel 2019](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a5d42088-c58a-4ef9-8bc4-76cda189f214.pdf)
+
+[Business Intelligence, Teoria sem mistério!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
+
+
+
 
 
 ##
@@ -156,6 +184,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 📚 [Medium](https://medium.com/@atom.free)
 
 💬 [Linkedin](https://www.linkedin.com/in/7iago-m-4a330b1bb/)
+#
 
 
 
