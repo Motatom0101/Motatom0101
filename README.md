@@ -2,6 +2,7 @@
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
 
 
+
 Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com **Cypress**. Contudo, venho estudando tecnologia por conta prórpria desde 2022. Então, também já estudei programação em **Python**, **AWS**, **API**, **Linux**, **Git/GitHub**, **Redes**, Monitoramento com **Zabbix**, **SQL**, **Excel** e Busines Intelligence. 
 
 Inclusive, tive a oportunidade de atuar como **estagiário técnico de redes de nov/2024 a mar/2025**, onde pude atuar com ferramentas como
@@ -176,6 +177,9 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 [Business Intelligence, Teoria sem mistério!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
 
 
+
+## principais ferramentas que já usei:
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
 
 
