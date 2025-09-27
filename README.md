@@ -10,10 +10,18 @@ Inclusive, tive a oportunidade de atuar como **estagiário técnico de redes de 
 
 Ao lidar com isso, percebi que corria o risco de não ter oportunidade de atuar com o quê eu queria - que é trabalhar em torno do código - e acabaria não me realizando como profissional. Foi Então que descobri a área de QA e comecei a estudar a fundo, buscando consolidar os fundamentos, para depois passar para a automação. Finalmente, encontrei meu lugar na área de TI como QA. Pois, além de dar **vazão ao meu senso crítico**, onde poderei analisar a construção do produto, transmitindo minha contribuição com uma comunicação assertiva, construtiva, cordial, não violenta e com escuta ativa, poderei ser o curioso incurável que sou, sempre atento aos detalhes. Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, aproveitanto minha **soft skill em comunicação**, pois atuei por quase 5 anos em telemarketing - chegando até a analista de atendimento digital -,mais 2 anos como segurança em shopping e atendimento ao público, em conjunto com tecnologia, é uma construção de ideal de trabalho que estou projetanto há tempos para minha carreira.   
 
-No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tenho como base os cursos que já fiz. Segue abaixo links para os principais artigos que escrevi sobre QA:
+#
+## principais ferramentas que já usei:
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
 
 #
+# 📚 Documentação do meu aprendizado🧑‍💻:
+
+No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tenho como base os cursos que já fiz. Segue abaixo links para os principais artigos que escrevi sobre QA:
+
+
+
 ## 🐞🔍 Artigos sobre QA:
 
 🔗[**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
@@ -153,7 +161,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
-## 📚 Principais cursos que realizei:
+# 📚 Principais cursos que realizei:
 
 [Domine Histórias de Usuário no Scrum](https://udemy-certificate.s3.amazonaws.com/image/UC-ab384c66-9e14-4599-80ed-1114d3294e75.jpg)
 
@@ -178,9 +186,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 [Business Intelligence, Teoria sem mistério!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
 
 
-#
-## principais ferramentas que já usei:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+
 
 
 
