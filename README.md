@@ -3,12 +3,12 @@
 
 
 
-Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projeto como QA o quanto antes possível,em times ágeis, garantindo qualidade desde os estágio iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e mais atualmente automação com **Cypress**. Contudo, venho estudando tecnologia por conta prórpria desde 2022. Então, também já estudei programação em **Python**, **AWS**, **API**, **Linux**, **Git/GitHub**, **Redes**, Monitoramento com **Zabbix**, **SQL**, **Excel** e Busines Intelligence. 
+Sou um QA (Analista de Qualidade de Software) em formação com foco em "shift left", ou seja, poder entrar em projetos o quanto antes possível,em times ágeis, podendo contribuir com a garantia da qualidade desde os estágios iniciais do ciclo de vida dos softwares. Para tanto, venho estudando fundamentos de testes, testes manuais, User Stories, Gherkin, programação em JS e, mais atualmente, automação com **Cypress**. Contudo, venho estudando tecnologia por conta prórpria desde 2022. Então, também já estudei programação em **Python**, **AWS**, **API**, **Linux**, **Git/GitHub**, **Redes**, Monitoramento com **Zabbix**, **SQL** bo Big Query da GCP - nuvem da Google - e um pouco de MySQL, **Excel** e Busines Intelligence. 
 
 Inclusive, tive a oportunidade de atuar como **estagiário técnico de redes de nov/2024 a mar/2025**, onde pude atuar com ferramentas como
-**Zabbix** para monitoramento de host e demais ativos de redes, **Linux** para lidar com servidores, ferramentas de acesso remoto como **puTTY** e **Zendesk**, onde eu gerenciava os tickets e os redirecionava para às equipes responsáveis. Além disso, eu recepcionava as demandas dos clientes por múltiplos canais omnichannel, registrava no **Zendesk**, avisando a equipe responsável sobre a nova demanda na fila. Também, recebia os alertas do **Zabbix e Grafana**, em tempo real, pelo whatssap. Dependendo da demanda, eu tinha que entrar em contato com a prestadora de serviço do nosso cliente para intermedia a situação, entendendo o quê houve, qual seria a forma deles resolverem e solicitar um SLA (Tempo estimado para a resolução do problema). Apóś isso, eu abria um ticket, que teria que acompanhar junto a empresa terceira, e dando o feedback para o nosso cliente.
+**Zabbix** para monitoramento de host e demais ativos de redes, **Linux** para lidar com servidores, ferramentas de acesso remoto como **puTTY**, **Zendesk**, onde eu gerenciava os tickets e os redirecionava para às equipes responsáveis. Além disso, eu recepcionava as demandas dos clientes por múltiplos canais omnichannel, registrava no **Zendesk**, avisando a equipe responsável sobre a nova demanda na fila. Também, recebia os alertas do **Zabbix e Grafana**, em tempo real, pelo whatssap. Dependendo da demanda, eu tinha que entrar em contato com a prestadora de serviço do nosso cliente para intermediar a situação, entendendo o quê houve, qual seria a forma deles resolverem e solicitar um SLA (Tempo estimado para a resolução do problema). Após isso, eu abria um ticket, que teria que acompanhar junto a empresa terceira, e dando o feedback para o nosso cliente.
 
-Ao lidar com isso, percebi que estava ficando ágil no que eu estava fazendo e corria o risco de não ter oportunidade de atuar com o quê eu queria - trabalhar em torno do código. Foi Então que descobri a área de QA e comecei a estudar a fundo, buscando consolidar os fundamentos, para depois passar para a automação. Finalmente, encontrei meu lugar na área de TI como QA. Pois, além de dar **vazão ao meu senso crítico**, onde poderei analisar o construção do produto, transmitindo minha contribuição com uma comunicação assertiva, cordial, não violenta e com escuta ativa, poderei ser o curioso incurável que sou, sempre atento aos detalhes. Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, aproveitanto minha **soft skill em comunicação**, pois atuei por mais de 5 anos em telemarketing - chegando até a analista de atendimento digital -, em conjunto com tecnologia, é uma construção de ideal que estou projetanto há tempos para minha carreira.   
+Ao lidar com isso, percebi que corria o risco de não ter oportunidade de atuar com o quê eu queria - que é trabalhar em torno do código - e acabaria não me realizando como profissional. Foi Então que descobri a área de QA e comecei a estudar a fundo, buscando consolidar os fundamentos, para depois passar para a automação. Finalmente, encontrei meu lugar na área de TI como QA. Pois, além de dar **vazão ao meu senso crítico**, onde poderei analisar a construção do produto, transmitindo minha contribuição com uma comunicação assertiva, construtiva, cordial, não violenta e com escuta ativa, poderei ser o curioso incurável que sou, sempre atento aos detalhes. Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, aproveitanto minha **soft skill em comunicação**, pois atuei por quase 5 anos em telemarketing - chegando até a analista de atendimento digital -,mais 2 anos como segurança em shopping e atendimento ao público, em conjunto com tecnologia, é uma construção de ideal de trabalho que estou projetanto há tempos para minha carreira.   
 
 No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tenho como base os cursos que já fiz. Segue abaixo links para os principais artigos que escrevi sobre QA:
 
@@ -56,8 +56,8 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
-## Programação JavaScript e Python:
-### JS:
+## Programação:
+### JavaScript:
 🔗[JavaScript Para QA — Parte 1](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
 
 🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
@@ -151,6 +151,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 🔗[SQL-7(BigQuey): Função de Agregação em SQL -parte I](https://medium.com/@atom.free/fun%C3%A7%C3%A3o-de-agrega%C3%A7%C3%A3o-em-sql-parte-i-f4b3111b00dd)
 
+
 #
 ## 📚 Principais cursos que realizei:
 
@@ -177,7 +178,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 [Business Intelligence, Teoria sem mistério!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
 
 
-
+#
 ## principais ferramentas que já usei:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
