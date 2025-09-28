@@ -66,7 +66,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 #
 ## Programação:
 ### JavaScript, HTML e CSS para QA:
-🔗[JavaScript Para QA — Parte 1](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
+🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
 
 🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
 
