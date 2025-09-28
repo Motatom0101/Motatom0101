@@ -18,7 +18,7 @@ Ao lidar com isso, percebi que corria o risco de não ter oportunidade de atuar 
 #
 # 📚 Documentação do meu aprendizado🧑‍💻:
 
-No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tenho como base os cursos que já fiz. Segue abaixo links para os principais artigos que escrevi sobre QA:
+No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tendo como base os cursos que já fiz. Segue abaixo os links para os principais artigos que escrevi:
 
 
 
@@ -104,6 +104,19 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+### Python e AWS:
+🔗[Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
+
+🔗[Python e Boto3_1: Criação de uma tabela DynamoDB na AWS](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
+
+🔗[Python e Boto3_2: Descrição de uma instância EC2 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-2-descri%C3%A7%C3%A3o-de-uma-inst%C3%A2ncia-ec2-na-aws-a7c6eff2167b)
+
+🔗[Python e Boto3_3: Listagem de buckets s3 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-3-listagem-de-buckets-s3-na-aws-fdac241f93c5)
+
+🔗[Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
+
+
+#
 ## Linux:
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
@@ -120,6 +133,10 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[Linux-6: Excluindo arquivos e diretórios no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-6-excluindo-arquivos-e-diret%C3%B3rios-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-05e2238eae61)
 
 🔗[Linux-7: Obtendo ajuda no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-7-obtendo-ajuda-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-42f0e7384bfb)
+
+🔗[Linux-8: Executando tarefas administrativas com usuário root.](https://medium.com/@atom.free/linux-8-executando-tarefas-administrativas-com-usu%C3%A1rio-root-b52cd87b417a)
+
+🔗[Linux-9: Liberando acesso remoto root.](https://medium.com/@atom.free/liberando-acesso-remoto-do-usu%C3%A1rio-root-a3be7681796b)
 
 
 #
@@ -158,6 +175,21 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[SQL-6(BigQuey):Comandos Condicionais (IF, CASE, COALESCE) no BiqQuery](https://medium.com/@atom.free/comandos-condicionais-if-case-coalesce-no-biqquery-37c1f47bfb77)
 
 🔗[SQL-7(BigQuey): Função de Agregação em SQL -parte I](https://medium.com/@atom.free/fun%C3%A7%C3%A3o-de-agrega%C3%A7%C3%A3o-em-sql-parte-i-f4b3111b00dd)
+
+
+#
+## Redes e Monitoramento (Zabbix):
+🔗[Redes-1: Introdução à redes de computadores para DevOps](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-%C3%A0-redes-de-computadores-para-devops-360940a95c2b)
+
+🔗[Redes de Computadores: Configurando e conectando Roteadores Cisco](https://medium.com/@atom.free/redes-de-computadores-configurando-e-conectando-roteadores-cisco-d88d5363d527)
+
+🔗[Redes de Computadores: Criando uma LAN doméstica ou para empresa de pequeno porte.](https://medium.com/@atom.free/redes-de-computadores-criando-uma-lan-dom%C3%A9stica-ou-para-empresa-de-pequeno-porte-4ba49ad11013)
+
+🔗[Redes de Computadores: Criando uma LAN para escritório de pequeno porte.](https://medium.com/@atom.free/redes-de-computadores-criando-uma-lan-para-eescrit%C3%A1rio-de-pequeno-porte-2e58d63cac5a)
+
+🔗[Monitoramento com Zabbix — parte1: Instalação](https://medium.com/@atom.free/monitoramento-com-zabbix-366fcab1cc61)
+
+🔗[Monitoramento com Zabbix — parte2: Configurando o 1º host (ICMP)](https://medium.com/@atom.free/monitoramento-com-zabbix-parte2-configurando-o-1%C2%BA-host-icmp-d37e5c2eb6a1)
 
 
 #
