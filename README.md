@@ -115,9 +115,11 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 🔗[Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
+ 
 
 #
-## Linux:
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+## Linux: 
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
 🔗[Linux-1: Minha iniciação ao Linux (WSL2) e programação em Shell Script](https://medium.com/@atom.free/minha-inicia%C3%A7%C3%A3o-ao-linux-wsl2-e-programa%C3%A7%C3%A3o-em-shell-script-a1225d26acde)
