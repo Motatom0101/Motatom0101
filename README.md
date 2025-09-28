@@ -74,7 +74,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
-### Python:
+### Python - Lógica de Programação:
 🔗[Lógica de programação e Programação Orientada à Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
 
 🔗[Lógica de programação e Programação Orientada à Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
@@ -118,7 +118,6 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
  
 
 #
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 ## Linux: 
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
