@@ -162,7 +162,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
-## SQL no BigQuery:
+## SQL no BigQuery (GCP: Google Cloud Plataform):
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
 🔗[SQL-2: Negando duas condições ao mesmo tempo com SQL no SGBD MySQL:](https://medium.com/@atom.free/negando-duas-condi%C3%A7%C3%B5es-ao-mesmo-tempo-com-sql-no-sgbd-mysql-1724b35031bb)
