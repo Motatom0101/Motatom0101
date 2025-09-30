@@ -12,7 +12,7 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 
 #
 ## 🛠 principais ferramentas que já usei 🛠:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 
 #
