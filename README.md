@@ -17,6 +17,14 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 #
 # Projetos: 
 
+## Gherkin Completo e BBD com JavaScript:
+
+ - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+ 
+ - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
+
+#
+## Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
    - BDD
@@ -27,6 +35,7 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
 #
 
+## Plano de Testes:
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
 
 Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócios e Critérios de Aceite no miro. Depois, montei o plano de testes no Goggle Sheets. 
