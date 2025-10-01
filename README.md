@@ -17,6 +17,27 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 #
 # Projetos: 
 
+## Domine Histórias de Usuário no Scrum:
+ -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
+#
+ -  2º Artigo - [Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49): Neste artigo vamos falar um pouco sobre o Modelo 3C, que é uma estrutura simples e eficaz, usada para criar e avaliar User Stories no contexto do Scrum. Além disso, vamos falar sobre o uso de “Personas” e do “Mapa de Empatia”.
+#
+ -  3º Artigo - [User Story e refinamento do backlog em times ágeis](https://medium.com/@atom.free/user-story-e-refinamento-do-backlog-em-times-%C3%A1geis-16abfa8b8e8c): Veremos sobre a simplicidade ao escrever uma User story; veremos como associar às personas — que vimos no artigo anterior — com as User Stories. Também veremos um modelo de escrita, que esteja condizente com o esperado e com exemplos. Além disso, veremos como usar o “Backlog Grooming” para refinar o backlog, preparando-o melhor para às sprints, com auxílio do entendimento do acrônimo “INVEST”, que se refere a um conjunto de critérios para avaliar a qualidade de histórias de usuário (ou itens do backlog), garantindo que elas sejam bem definidas, claras e que estejam prontas para o desenvolvimento.
+#
+ -  4º Artigo - [Hierarquias, Estruturas e Rompimento.](https://medium.com/@atom.free/hierarquias-estruturas-e-rompimento-786db1d1ae62): Neste artigo veremos sobre Temas, Épicos, Funcionalidades, Histórias de usuários e Tarefas. Compreenderemos a estrutura de cada nível, veremos sobre quebrar histórias de usuários em tarefas, além de dicas de boas práticas como não usar hierarquias complicadas.
+# 
+ -  5º Artigo - [Implementando tarefas com SMART](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc): Agora, entenderemos como implementar e refinar nossas tarefas com o acrônimo SMART.
+
+   - S: Specific (específico);
+   - M: Measurable (mensurável);
+   - A: Achievable (realizável);
+   - R: Relevant (relevante);
+   - T: Time-boxed (duração fixa).
+
+# 
+ -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
+
+#
 ## Gherkin Completo e BBD com JavaScript:
 
  - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
@@ -33,8 +54,8 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
    - Status e Report.
 
 Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
-#
 
+#
 ## Plano de Testes:
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
 
