@@ -17,6 +17,38 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 #
 # Projetos: 
 
+## Teste Funcional:
+
+ - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
+
+   - BDD;
+   - Modelagem de testes;
+   - Execução de testes e evidência;
+   - Status e Report.
+
+Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
+
+#
+## Plano de Testes:
+ - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
+
+Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócios e Critérios de Aceite no miro. Depois, montei o plano de testes no Goggle Sheets. 
+
+Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo.  
+
+#
+## Gherkin Completo e BBD com JavaScript:
+
+ - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+ 
+ - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
+
+#
+## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
+
+ - [Repositório](https://github.com/Motatom0101/AutomacaoWeb_Cypress-e-Cucumber)
+
+#
 ## Domine Histórias de Usuário no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
 #
@@ -44,40 +76,6 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 
 # 
  -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
-
-#
-## Gherkin Completo e BBD com JavaScript:
-
- - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
- 
- - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
-
-#
-## Teste Funcional:
-
- - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
-
-   - BDD;
-   - Modelagem de testes;
-   - Execução de testes e evidência;
-   - Status e Report.
-
-Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
-
-#
-## Plano de Testes:
- - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
-
-Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócios e Critérios de Aceite no miro. Depois, montei o plano de testes no Goggle Sheets. 
-
-Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo.  
-
-#
-## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
-
- - [Repositório](https://github.com/Motatom0101/AutomacaoWeb_Cypress-e-Cucumber)
-
-
 
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
