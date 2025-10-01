@@ -57,7 +57,7 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
-   - BDD
+   - BDD;
    - Modelagem de testes;
    - Execução de testes e evidência;
    - Status e Report.
