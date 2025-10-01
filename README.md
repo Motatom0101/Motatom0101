@@ -277,6 +277,8 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 [Lógica de Programação e Orientação a Objetos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
 
+[Curso Analista de testes - QA](https://www.youtube.com/watch?v=XB6tZB3wX4M&list=PLQ3tGxEilbe4xOBBhnBr7-TQgp4U0Js9D)
+
 [Formação em Redes de Computadores Módulo 2](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1a529ad7-c293-42be-ab89-c92a7390c3df.pdf)
 
 [Formação em Redes de Computadores - Módulo 1](https://udemy-certificate.s3.amazonaws.com/image/UC-97735d56-3eeb-4bd8-ae6d-1f3d4d478e5d.jpg)
