@@ -28,11 +28,11 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 # 
  -  5º Artigo - [Implementando tarefas com SMART](https://medium.com/@atom.free/implementando-tarefas-com-smart-937ea4d743bc): Agora, entenderemos como implementar e refinar nossas tarefas com o acrônimo SMART.
 
-   - S: Specific (específico);
-   - M: Measurable (mensurável);
-   - A: Achievable (realizável);
-   - R: Relevant (relevante);
-   - T: Time-boxed (duração fixa).
+     - S: Specific (específico);
+     - M: Measurable (mensurável);
+     - A: Achievable (realizável);
+     - R: Relevant (relevante);
+     - T: Time-boxed (duração fixa).
 
 # 
  -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
