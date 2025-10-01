@@ -11,8 +11,10 @@ Inclusive, tive a oportunidade de atuar como **estagiário técnico de redes de 
 Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomodar naquela situação, não buscando pela oportunidade de atuar com o quê eu queria - que é trabalhar em torno do código - e acabaria não me realizando como profissional. Foi Então que descobri a área de QA e comecei a estudar a fundo, buscando consolidar os fundamentos, para depois passar para a automação. Finalmente, encontrei meu lugar na área de TI como QA. Pois, além de dar **vazão ao meu senso crítico**, onde poderei analisar a construção do produto, transmitindo minha contribuição com uma comunicação assertiva, construtiva, cordial, não violenta e com escuta ativa, poderei ser o curioso incurável que sou, sempre atento aos detalhes. Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, aproveitanto minha **soft skill em comunicação**, pois atuei por quase 5 anos em telemarketing - chegando até a analista de atendimento digital -,mais 2 anos como segurança em shopping e atendimento ao público, em conjunto com tecnologia, é uma construção de ideal de trabalho que estou projetanto há tempos para minha carreira em TI.   
 
 #
+#
 ## 🛠 principais ferramentas que já usei 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+
 
 #
 # Projetos: 
@@ -29,6 +31,7 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
 
 #
+#
 ## Plano de Testes:
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
 
@@ -37,6 +40,7 @@ Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tare
 Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo.  
 
 #
+#
 ## Gherkin Completo e BBD com JavaScript:
 
  - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
@@ -44,10 +48,12 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
  - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
 
 #
+#
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
 
  - [Repositório](https://github.com/Motatom0101/AutomacaoWeb_Cypress-e-Cucumber)
 
+#
 #
 ## Domine Histórias de Usuário no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
@@ -77,6 +83,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 # 
  -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
 
+#
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 
@@ -126,6 +133,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+#
 ## Programação:
 ### JavaScript, DOM, HTML e CSS para QA:
 🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
@@ -135,6 +143,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
 
 
+#
 #
 ### Python - Lógica de Programação:
 🔗[Lógica de programação e Programação Orientada à Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
@@ -153,6 +162,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+#
 ### Python, Postman e API:
 🔗[API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
 
@@ -166,6 +176,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+#
 ### Python e AWS:
 🔗[Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
 
@@ -178,7 +189,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
  
-
+#
 #
 ## Linux: 
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
@@ -203,6 +214,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+#
 ## Git/GitHub:
 🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
 
@@ -224,6 +236,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+#
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
@@ -241,6 +254,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 
 #
+#
 ## Redes e Monitoramento (Zabbix):
 🔗[Redes-1: Introdução à redes de computadores para DevOps](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-%C3%A0-redes-de-computadores-para-devops-360940a95c2b)
 
@@ -255,6 +269,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 🔗[Monitoramento com Zabbix — parte2: Configurando o 1º host (ICMP)](https://medium.com/@atom.free/monitoramento-com-zabbix-parte2-configurando-o-1%C2%BA-host-icmp-d37e5c2eb6a1)
 
 
+#
 #
 # 📚 Principais cursos que realizei:
 
