@@ -15,7 +15,17 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 #
-# Projetos:
+# Projetos: 
+
+ - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
+
+   - BDD
+   - Modelagem de testes;
+   - Execução de testes e evidência;
+   - Status e Report.
+
+Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
+#
 
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
 
