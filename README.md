@@ -54,6 +54,7 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 
 #
 ## Teste Funcional:
+
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
    - BDD
@@ -70,6 +71,13 @@ Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e e
 Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócios e Critérios de Aceite no miro. Depois, montei o plano de testes no Goggle Sheets. 
 
 Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo.  
+
+#
+## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
+
+ - [Repositório](https://github.com/Motatom0101/AutomacaoWeb_Cypress-e-Cucumber)
+
+
 
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
