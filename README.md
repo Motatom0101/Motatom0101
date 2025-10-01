@@ -14,6 +14,14 @@ Ao lidar com isso, percebi que poderia mais, porém, corria o risco de me acomod
 ## 🛠 principais ferramentas que já usei 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
+#
+# Projetos:
+
+ - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
+
+Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócios e Critérios de Aceite no miro. Depois, montei o plano de testes no Goggle Sheets. 
+
+Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo.  
 
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
