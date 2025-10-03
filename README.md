@@ -16,6 +16,7 @@ Finalmente, encontrei meu lugar na área de TI como QA. Pois, além de dar vazã
 ## 🛠 principais ferramentas que já usei 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
+![Jira](https://camo.githubusercontent.com/074dd42a464b0543baad5431f23f8a075983d8236b416db98118e213ccd91450/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f6c6f676f3d6a697261266c6f676f436f6c6f723d666666)
 
 #
 # Projetos: 
