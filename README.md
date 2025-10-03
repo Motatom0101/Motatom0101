@@ -89,7 +89,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 
-No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tendo como base os cursos que já fiz. Segue abaixo os links para os principais artigos que escrevi:
+No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tendo como base os cursos que já fiz. Segue abaixo os links para os principais:
 
 
 
