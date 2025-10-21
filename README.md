@@ -3,7 +3,7 @@
 
 
 
-Sou autodidata no estudo de tecnologia e um QA (Analista de Qualidade de Software) em formação com foco em **"shift left"**. Ou seja, poder garantir a qualidade em projetos mais cedo possível, em times ágeis que trabalham com a metodologia SCRUM. Assim, poderei auxiliar o time e o P.O desde os estágios iniciais do **ciclo de vida do software (SDLC)**, até mesmo na composição e entendimento do Backlog Product. 
+Sou autodidata no estudo de tecnologia e um QA (Analista de Qualidade de Software) em formação com foco em **"shift left"**. Ou seja, poder **prevenir defeitos** e **garantir a qualidade** em projetos mais cedo possível, em times ágeis que trabalham com a metodologia SCRUM. Assim, poderei auxiliar o time e o P.O desde os estágios iniciais do **ciclo de vida do software (SDLC)**, até mesmo na composição e entendimento do Backlog Product. 
 
 Para tanto, venho estudando **fundamentos de testes**, **testes manuais**, **User Stories**, **Análise de requisitos** com User Stories, **Gherkin**, **Plano de Testes & Gerenciamento de Bugs**, **Jira**, **lógica de programação Python e JavaScript para QA**. Atualmente, iniciei os estudos em automação de testes com **Cypress** e estou me aprofundando em **Testes de API com o Postman**.
 
