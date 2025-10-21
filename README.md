@@ -39,7 +39,7 @@ Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e e
 
 Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócio e Critérios de Aceite no miro. Depois, montei o plano de testes no Goggle Sheets. 
 
-Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo, após entrar no link do projeto "[Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste)".  
+Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo, após acessar o link do projeto -> "[Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste)".  
 
 #
 #
