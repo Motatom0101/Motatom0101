@@ -5,7 +5,7 @@
 
 Sou autodidata no estudo de tecnologia e um QA (Analista de Qualidade de Software) em formação com foco em **"shift left"**. Ou seja, poder **prevenir defeitos** e **garantir a qualidade** em projetos mais cedo possível, em times ágeis que trabalham com a metodologia SCRUM. Assim, poderei auxiliar o time e o P.O desde os estágios iniciais do **ciclo de vida do software (SDLC)**, até mesmo na composição e entendimento do Backlog Product. 
 
-Para tanto, venho estudando **fundamentos de testes**, **testes manuais**, **User Stories**, **Análise de requisitos** com User Stories, **Gherkin**, **Plano de Testes & Gerenciamento de Bugs**, **Jira**, **lógica de programação Python e JavaScript para QA**. Atualmente, iniciei os estudos em automação de testes com **Cypress** e estou me aprofundando em **Testes de API com o Postman**.
+Para tanto, venho estudando **fundamentos de testes**, **testes manuais**, **User Stories**, **Análise de requisitos** com User Stories, **Gherkin**, **Plano de Testes & Gerenciamento de Bugs**, **Jira**, **lógica de programação Python e JavaScript/HTML/CSS para QA**. Atualmente, iniciei os estudos em automação de testes com **Cypress** e estou me aprofundando em **Testes de API com o Postman**.
 
 Contudo, já venho estudando tecnologia por conta própria, de forma mais direcionada, desde 2022 - apesar de procurar entender TI desde 2017 acompanhando Gustavo Guanabara (Curso em Vídeo) e Fábio (Bóson Treinamentos). Então, também já estudei **programação em Python para análise de dados, AWS, API, Linux, Git/GitHub, Redes, Monitoramento com Zabbix, SQL com Big Query da GCP** - nuvem da Google - e um pouco de **MySQL**, **Excel** e **Busines Intelligence**.
 
