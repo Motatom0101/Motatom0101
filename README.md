@@ -53,7 +53,9 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 #
 #
 ## Abertura e Gerenciamento de bugs:
- - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club. Veremos como abrir bugs, usando uma planilha teplate de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
+ - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
+ 
+Veremos como abrir bugs, usando uma planilha teplate de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
 
    
 #
@@ -289,7 +291,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 #
 #
 # 📚 Principais cursos que realizei:
-Teste de Software Manual: Do Planejamento à Execução
+
 [Teste de Software Manual: Do Planejamento à Execução](https://udemy-certificate.s3.amazonaws.com/image/UC-80ddaa4a-3e76-4315-904f-03eb5e9b9d1e.jpg)
 
 [Domine Histórias de Usuário no Scrum](https://udemy-certificate.s3.amazonaws.com/image/UC-ab384c66-9e14-4599-80ed-1114d3294e75.jpg)
