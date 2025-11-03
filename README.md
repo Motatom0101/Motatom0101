@@ -52,7 +52,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
 #
 #
-## Abertura e Gerenciamento de Bugs:
+## Abertura, Gerenciamento e Rastreio de Bugs:
  - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
  
 Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
