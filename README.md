@@ -150,7 +150,11 @@ No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos qu
 
 🔗[**Plano de Testes — Parte 2**](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
 
+🔗[**Plano de Testes — Parte 3: Na Prática**](https://medium.com/@atom.free/plano-de-testes-parte-3-na-pr%C3%A1tica-c38c2b4fa4a3)
 
+🔗[**Gerenciamento de Bugs/Bug tracking Part 1**](https://medium.com/@atom.free/bug-tracking-part-1-3107299c17e8)
+
+Plano de Testes — Parte 3: Na Prática
 #
 #
 ## Programação:
