@@ -106,7 +106,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 
-No "[Medium](https://medium.com/@atom.free)" Tenho quase 80 artigos técnicos que escrevi com todos os assuntos citados acima, tendo como base os cursos que já fiz. Segue abaixo os links para os principais:
+No "[Medium](https://medium.com/@atom.free)" Tenho mais de 80 artigos técnicos que escrevi com todos os assuntos citados acima, tendo como base os cursos que já fiz. Segue abaixo os links para os principais:
 
 
 
