@@ -154,7 +154,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho mais de 80 artigos técnicos 
 
 🔗[**Gerenciamento de Bugs/Bug tracking Part 1**](https://medium.com/@atom.free/bug-tracking-part-1-3107299c17e8)
 
-🔗[**Gerenciamento de Bugs/Bug tracking Part 2**] (https://medium.com/@atom.free/bug-tracking-part-2-d29f08257710)
+🔗[**Gerenciamento de Bugs/Bug tracking Part 2**](https://medium.com/@atom.free/bug-tracking-part-2-d29f08257710)
 #
 #
 ## Programação:
