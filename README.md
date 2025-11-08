@@ -70,7 +70,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
 
- - [Repositório](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber)
+ - [Repositório](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Neste repositório estou desenvolvendo um projeto de automação de teste WEB com Cypress, com base no **curso 'Automação Web - Cypress e Cucumber'**. Também teremos artigos escritos no Medium, onde documentarei boa parte desta jornada.
 
 #
 #
