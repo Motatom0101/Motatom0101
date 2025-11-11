@@ -174,7 +174,7 @@ Aqui veremos os seguintes temas:
  - Lógica de Programação
  - Orientação a Objetos com JS
  - Manipulação do DOM
- - Javascript moderno
+ - JavaScript moderno
  - Alguns projetos
 
 #
