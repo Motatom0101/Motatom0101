@@ -167,7 +167,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho mais de 80 artigos técnicos 
 
 🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
 
-### JavaScript Completo:
+### JavaScript Puro Completo:
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
 Aqui veremos os seguintes temas:
 
