@@ -28,7 +28,13 @@ Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, apro
 
 #
 # Projetos: 
+#
+## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
 
+ - [Repositório](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Neste repositório estou desenvolvendo um projeto de automação de teste WEB com Cypress, com base no **curso 'Automação Web - Cypress e Cucumber'**. Também teremos artigos escritos no Medium, onde documentarei boa parte desta jornada.
+
+#
+#
 ## Teste Funcional:
 
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
@@ -65,12 +71,6 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
  - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
  
  - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
-
-#
-#
-## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
-
- - [Repositório](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Neste repositório estou desenvolvendo um projeto de automação de teste WEB com Cypress, com base no **curso 'Automação Web - Cypress e Cucumber'**. Também teremos artigos escritos no Medium, onde documentarei boa parte desta jornada.
 
 #
 #
