@@ -67,7 +67,7 @@ Veremos os seguintes temas:
 
 #
 #
-## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
+## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin):
 
  - [Repositório](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Neste repositório estou desenvolvendo um projeto de automação de teste WEB com Cypress, com base no **curso 'Automação Web - Cypress e Cucumber'**. Também teremos artigos escritos no Medium, onde documentarei boa parte desta jornada.
 
