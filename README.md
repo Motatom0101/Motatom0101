@@ -1,23 +1,48 @@
 #
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
 
+#
+## 🚀 QA Engineer em Transição | Foco em Shift Left & Automação
+Sou um profissional autodidata e apaixonado por tecnologia, desce o começo de 2025 em formação intensiva para me tornar um QA (Quality Assurance) Engineer com a filosofia **Shift Left**. Meu objetivo é **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando ativamente com o time, o PO e o Product Backlog em ambientes ágeis (Scrum).
 
+Este repositório serve como meu **Portfólio Técnico**, onde demonstro minha aplicação prática dos conhecimentos adquiridos.
 
-Sou autodidata no estudo de tecnologia e um QA (Analista de Qualidade de Software) em formação com foco em **"shift left"**. Ou seja, poder **prevenir defeitos** e **garantir a qualidade** em projetos mais cedo possível, em times ágeis que trabalham com a metodologia SCRUM. Assim, poderei auxiliar o time e o P.O desde os estágios iniciais do **ciclo de vida do software (SDLC)**, até mesmo na composição e entendimento do Backlog Product. 
+## 🎯 Meus Pilares de Conhecimento e Estudo
+Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas nos projetos deste perfil:
 
-Para tanto, venho estudando **fundamentos de testes**, **testes manuais**, **User Stories**, **Análise de requisitos** com User Stories, **Gherkin**, **Plano de Testes & Gerenciamento de Bugs**, **Jira**, **lógica de programação Python e JavaScript/HTML/CSS para QA**. Atualmente, iniciei os estudos em automação de testes com **Cypress** e estou me aprofundando em **Testes de API com o Postman**.
+### 1. Qualidade de Software & Metodologias
+ - **Fundamentos QA:** Fundamentos de Teste de Software, Testes Manuais, Tipos de Teste, Ciclo de Vida do Software (**SDLC**).
 
-Contudo, já venho estudando tecnologia por conta própria, de forma mais direcionada, desde 2022 - apesar de procurar entender TI desde 2017 acompanhando Gustavo Guanabara (Curso em Vídeo) e Fábio (Bóson Treinamentos). Então, também já estudei **programação em Python para análise de dados, AWS, API, Linux, Git/GitHub, Redes, Monitoramento com Zabbix, SQL com Big Query da GCP** - nuvem da Google - e um pouco de **MySQL**, **Excel** e **Busines Intelligence**.
+ - **Requisitos e Escopo:** Análise de Requisitos, Elaboração de User Stories, **Gherkin**.
 
-Atuei como estagiário técnico de redes de nov/2024 a mar/2025, onde trabalhei com ferramentas como **Zabbix** para monitoramento de host e demais ativos de rede, **Linux** para lidar com servidores, ferramentas de acesso remoto como **puTTY** e o **Zendesk** para gerenciamento de tickets. Eu acompanhava à chegada dos tickets, resolvia o que estava na minha alçada, muitas vezes pedindo ajuda para poder aprender a resolver, e outros eu direcionava para equipes mais específicas. 
+ - **Gestão:** Criação de **Planos de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Jira e Excel**.
 
-Além disso, eu recepcionava às demandas dos clientes por múltiplos canais omnichannel, registrava o ticket no **Zendesk**, avisando a equipe responsável sobre a nova demanda na fila. Também recebia os alertas do **Zabbix e Grafana**, em tempo real, pelo whatsApp. Dependendo da demanda, eu entrava em contato com a prestadora de serviço do nosso cliente para intermediar a situação, entendendo o quê houve, qual seria a forma deles resolverem, solicitando um **SLA** (Tempo estimado para a resolução do problema). Após isso, eu **documentava tudo em ticket no ZenDesk**, acompanhando junto a empresa terceira, e dando o feedback para o nosso cliente, deixando claro que ele poderia contar com nosso time. Deste modo, o cliente poderia direcionar sua energia para o tático e estratégico, enquanto eu cuidava da garantia da solução da ocorrência no operacional.
+ - **Metodologia:** Experiência com **times ágeis** e a metodologia **SCRUM**.
 
-Ao lidar com isso, percebi que poderia mais, porém, se eu não tivesse a oportunidade para me desenvolver, corria o risco de me acomodar naquela situação, não buscando pela oportunidade de atuar com o quê eu quero - trabalhar em torno do código - e acabaria não me realizando como profissional. Foi Então que descobri a área de QA e comecei a estudar a fundo, buscando consolidar os fundamentos, para poder entregar novamente o meu melhor, desta vez como uma visão do profissional que vou me tornar. 
+### 2. Automação de Testes & Linguagens
+ - **Automação Web:** Estudos e projetos em **Cypress**.
 
-Finalmente, encontrei meu lugar na TI como QA, depois de buscar entender onde me encaixar desde 2017. Pois, além de dar vazão ao meu **senso crítico e investigativo**, onde poderei analisar o resultado da construção do produto, contribuindo com uma **comunicação assertiva, construtiva, cordial e escuta ativa** sempre para continuar aprendendo, podendo exercer o curioso incurável que sou, sempre atento aos detalhes. 
+ - **Testes de API:** Aprofundamento em testes de API utilizando **Postman**.
 
-Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, aproveitando minha **soft skill em comunicação**, pois atuei por **quase 5 anos em telemarketing** - chegando até a **analista de atendimento digital** -, mais **2 anos como segurança em shopping e atendimento ao público**, em conjunto com tecnologia, é uma construção de ideal de trabalho que estou projetando há tempos para minha carreira em TI.   
+ - **Linguagens de Programação:** **Lógica de Programação** e **POO** com **Python** e **JavaScript Puro**, além de fundamentos de Web com **JS/HTML/CSS**.
+
+### 3. Ferramentas, Infraestrutura & Soft Skills
+Categoria	Habilidades & Ferramentas:
+   - **Controle de Versão:**	Git / GitHub
+   - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
+   - **Infraestrutura:**	Linux, Redes, AWS, API
+   - **Monitoramento:**	Zabbix, Grafana
+   - **Gestão de Tickets:**	Zendesk, puTTY
+   - **Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico e Investigativo, Atenção aos Detalhes.
+
+## 🔍 Experiência Técnica Aplicada
+Minha transição para QA é embasada em sólida experiência técnica e de atendimento ao cliente:
+
+ - **Estágio Técnico em Redes (Nov/2024 a Mar/2025):** Atuei no monitoramento de ativos de rede e hosts utilizando Zabbix e Grafana (alertas via WhatsApp). Utilizei Linux para servidores e **Zendesk para gestão de tickets** de ponta a ponta. Fui o principal ponto de contato entre o time técnico, nossos clientes e e seus prestadores de serviços, garantindo o registro, acompanhamento de SLA  dos tickets com terceiros e feedback ao cliente.
+
+ - **Experiência com Clientes (Telemarketing e Segurança):** Quase 7 anos de experiência, desenvolvendo comunicação construtiva, cordial e assertiva. Essa bagagem é crucial para a colaboração em times de desenvolvimento e para a compreensão profunda das necessidades do produto.
+
+Encontrei na carreira de QA o lugar ideal para unir meu senso investigativo e minhas habilidades de comunicação com o mundo do código. Estou pronto para aplicar este conhecimento e evoluir na prática.
 
 #
 #
@@ -87,7 +112,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 
 #
 #
-## Domine Histórias de Usuário no Scrum:
+## Epics, User Story e Tasks no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
 #
  -  2º Artigo - [Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49): Neste artigo vamos falar um pouco sobre o Modelo 3C, que é uma estrutura simples e eficaz, usada para criar e avaliar User Stories no contexto do Scrum. Além disso, vamos falar sobre o uso de “Personas” e do “Mapa de Empatia”.
@@ -119,7 +144,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 
-No "[Medium](https://medium.com/@atom.free)" Tenho mais de 80 artigos técnicos que escrevi com todos os assuntos citados acima, tendo como base os cursos que já fiz. Segue abaixo os links para os principais:
+No meu perfil do "[**Medium**](https://medium.com/@atom.free)", mantenho um acervo com mais de 80 artigos técnicos que documentam e aprofundam todos os temas listados em minhas habilidades. É uma fonte rica, baseada em cursos e estudos autodidatas, que comprova minha jornada e conhecimento em QA e TI. Esses são os principais:
 
 
 
