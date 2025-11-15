@@ -29,6 +29,19 @@ Trabalhar em equipe, podendo contribuir de verdade com a qualidade do todo, apro
 #
 # Projetos: 
 #
+### JavaScript Puro Completo:
+🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
+Veremos os seguintes temas:
+
+ - **Lógica de Programação**;
+ - **Orientação a Objetos**;
+ - **Manipulação do DOM**;
+ - **JavaScript moderno**;
+ - Alguns **projetos**;
+ - **Códigos documentadoos** (comentários enxutos e explicativos).
+
+#
+#
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin - BDD):
 
  - [Repositório](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Neste repositório estou desenvolvendo um projeto de automação de teste WEB com Cypress, com base no **curso 'Automação Web - Cypress e Cucumber'**. Também teremos artigos escritos no Medium, onde documentarei boa parte desta jornada.
@@ -159,7 +172,7 @@ No "[Medium](https://medium.com/@atom.free)" Tenho mais de 80 artigos técnicos 
 🔗[**Automação Web — Cypress e Cucumber — Parte 1.**](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-1-89d5950e739d)
 #
 #
-## Programação:
+## Mais Programação:
 ### JavaScript, DOM, HTML e CSS para QA:
 🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
 
@@ -167,28 +180,18 @@ No "[Medium](https://medium.com/@atom.free)" Tenho mais de 80 artigos técnicos 
 
 🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
 
-### JavaScript Puro Completo:
-🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
-Aqui veremos os seguintes temas:
-
- - Lógica de Programação
- - Orientação a Objetos com JS
- - Manipulação do DOM
- - JavaScript moderno
- - Alguns projetos
-
 #
 #
 ### Python - Lógica de Programação:
-🔗[Lógica de programação e Programação Orientada à Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
+🔗[Lógica de programação e Programação Orientada a Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
 
-🔗[Lógica de programação e Programação Orientada à Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
+🔗[Lógica de programação e Programação Orientada a Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
 
-🔗[Lógica de programação e Programação Orientada à Objeto III — Fluxograma](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iii-fluxograma-97ab4a9af581)
+🔗[Lógica de programação e Programação Orientada a Objeto III — Fluxograma](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iii-fluxograma-97ab4a9af581)
 
-🔗[Lógica de programação e Programação Orientada à Objeto IV — Listas, Funções e Tratamento de Erros](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iv-listas-fun%C3%A7%C3%B5es-e-tratamento-de-erros-fbef2ce95f25)
+🔗[Lógica de programação e Programação Orientada a Objeto IV — Listas, Funções e Tratamento de Erros](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iv-listas-fun%C3%A7%C3%B5es-e-tratamento-de-erros-fbef2ce95f25)
 
-🔗[Lógica de programação e Programação Orientada à Objeto V — Orientação a Objetos](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-v-orienta%C3%A7%C3%A3o-a-objetos-55b9742726d3)
+🔗[Lógica de programação e Programação Orientada a Objeto V — Orientação a Objetos](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-v-orienta%C3%A7%C3%A3o-a-objetos-55b9742726d3)
 
 🔗[Selenium & Python: Seletor CSS de IDs e Classes.](https://medium.com/@atom.free/selenium-python-seletor-css-de-ids-e-classes-124429a21044)
 
