@@ -32,7 +32,7 @@ Categoria	Habilidades & Ferramentas:
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
    - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
-   - **Gestão de Tickets:**	Zendesk, 
+   - **Gestão de Tickets:**	Zendesk 
    - **Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico e Investigativo, Atenção aos Detalhes.
 
 ## 🔍 Experiência Técnica Aplicada
