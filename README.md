@@ -30,9 +30,9 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 Categoria	Habilidades & Ferramentas:
    - **Controle de Versão:**	Git / GitHub
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
-   - **Infraestrutura:**	Linux, Redes, AWS, API
+   - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
-   - **Gestão de Tickets:**	Zendesk, puTTY
+   - **Gestão de Tickets:**	Zendesk, 
    - **Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico e Investigativo, Atenção aos Detalhes.
 
 ## 🔍 Experiência Técnica Aplicada
