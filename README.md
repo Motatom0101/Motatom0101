@@ -2,7 +2,7 @@
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
 
 #
-## 🚀 QA Engineer em Transição | Foco em Shift Left & Automação
+## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
 Sou um profissional autodidata e apaixonado por tecnologia, desce o começo de 2025 em formação intensiva para me tornar um QA (Quality Assurance) Engineer com a filosofia **Shift Left**. Meu objetivo é **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando ativamente com o time, o PO e o Product Backlog em ambientes ágeis (Scrum).
 
 **Este repositório** serve como meu **Portfólio Técnico**, onde demonstro minha aplicação prática dos conhecimentos adquiridos.
