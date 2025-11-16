@@ -17,7 +17,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Gestão:** Criação de **Planos de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Jira e Excel**.
 
- - **Metodologia:** Experiência com **times ágeis** e a metodologia **SCRUM**.
+ - **Metodologia:** conhecimentos sobre o fluxo de trabalho de **times ágeis** e da metodologia **SCRUM & Kanban**.
 
 ### 2. Automação de Testes & Linguagens
  - **Automação Web:** Estudos e projetos em **Cypress**.
