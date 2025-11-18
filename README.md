@@ -42,7 +42,7 @@ Minha transição para QA é embasada em sólida experiência técnica e de aten
 
  - **Experiência com Clientes (Telemarketing e Segurança):** Quase 7 anos de experiência, desenvolvendo **comunicação construtiva**, cordial, **escuta ativa**, **atenção aos detalhes** e **pensamento crítico**. Essa bagagem é crucial para a colaboração em times de desenvolvimento e para a compreensão profunda das necessidades do produto.
 
-Encontrei na carreira de QA o lugar ideal para unir meu senso investigativo e minhas habilidades de comunicação com o mundo do código. Estou pronto para aplicar este conhecimento e evoluir na prática.
+Encontrei na carreira de QA o lugar ideal para unir meu senso investigativo e minhas habilidades de comunicação com o mundo do código. **Estou pronto para aplicar este conhecimento e evoluir na prática**.
 
 #
 #
