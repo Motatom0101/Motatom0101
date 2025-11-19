@@ -33,7 +33,7 @@ Categoria	Habilidades & Ferramentas:
    - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
    - **Gestão de Tickets:**	Zendesk 
-   - **Soft Skills Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico e Investigativo, Atenção aos Detalhes.
+   - **Soft Skills Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico, Investigativo e Atenção aos Detalhes.
 
 ## 🔍 Experiência Técnica Aplicada
 Minha transição para QA é embasada em sólida experiência técnica e de atendimento ao cliente:
