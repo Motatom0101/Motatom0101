@@ -13,7 +13,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 ### 1. Qualidade de Software & Metodologias
  - **Fundamentos QA:** Fundamentos de Teste de Software, Testes Manuais, Tipos de Teste, Ciclo de Vida do Software (**SDLC**).
 
- - **Requisitos e Escopo:** Análise de Requisitos, Elaboração de User Stories, **Gherkin**.
+ - **Requisitos e Escopo:** Análise de Requisitos, Critérios Aceite, Regras de Negócio, Elaboração de User Stories e linguagem **Gherkin**.
 
  - **Gestão:** Criação de **Plano de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Jira e Excel**.
 
