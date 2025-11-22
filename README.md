@@ -70,7 +70,7 @@ Veremos os seguintes temas:
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin):
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
- - [Repositório](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
+ - [Repositório](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 
 
 
