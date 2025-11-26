@@ -346,6 +346,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Teste de Software Manual: Do Planejamento à Execução](https://udemy-certificate.s3.amazonaws.com/image/UC-80ddaa4a-3e76-4315-904f-03eb5e9b9d1e.jpg)
 
 [Domine Histórias de Usuário no Scrum](https://udemy-certificate.s3.amazonaws.com/image/UC-ab384c66-9e14-4599-80ed-1114d3294e75.jpg)
+
 [Intensivo de Inglês](https://drive.google.com/file/d/1La43aoS2XRsUdIrvL7MHnelhE6phsvIi/view)
 
 [Lógica de Programação e Orientação a Objetos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
