@@ -67,6 +67,13 @@ Veremos os seguintes temas:
  - **JavaScript moderno**;
  - Alguns **projetos**;
  - **Códigos documentados** (comentários enxutos e explicativos).
+#
+#
+## Gherkin Completo e BBD com JavaScript:
+
+ - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+ 
+ - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
 
 #
 #
@@ -108,13 +115,6 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
 
    
-#
-#
-## Gherkin Completo e BBD com JavaScript:
-
- - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
- 
- - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
 
 #
 #
