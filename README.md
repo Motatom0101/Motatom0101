@@ -67,9 +67,8 @@ Veremos os seguintes temas:
 
  - **Lógica de Programação**;
  - **Orientação a Objetos**;
- - **Manipulação do DOM**;
+ - **Fundamentos de JavaScript Funcional**[Cod3r];
  - **JavaScript moderno**;
- - Alguns **projetos**;
  - **Códigos documentados** (comentários enxutos e explicativos).
 #
 #
