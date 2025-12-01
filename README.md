@@ -61,7 +61,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 ## Testando APIs com Postman:
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
-### JavaScript Puro Completo:
+## JavaScript Puro Completo:
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
 Veremos os seguintes temas:
 
