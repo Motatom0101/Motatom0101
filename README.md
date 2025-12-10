@@ -203,7 +203,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 🔗[**Gerenciamento de Bugs/Bug tracking Part 2**](https://medium.com/@atom.free/bug-tracking-part-2-d29f08257710)
 
-🔗[**Automação Web — Cypress e Cucumber — Parte 1.**](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-1-89d5950e739d)
+
 #
 #
 ## Mais Programação:
