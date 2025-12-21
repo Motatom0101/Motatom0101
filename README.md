@@ -58,6 +58,9 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 # Projetos: 
 #
+## Java
+[Repo](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
+
 ## Testando APIs com Postman:
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
