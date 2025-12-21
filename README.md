@@ -51,7 +51,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 ## 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CPython%2CGit%2CGithub%2CVSCode%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CCypress%2CGCP%2CAWS%2CMySQL%2CPostman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 ![Jira](https://camo.githubusercontent.com/074dd42a464b0543baad5431f23f8a075983d8236b416db98118e213ccd91450/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f6c6f676f3d6a697261266c6f676f436f6c6f723d666666)
 
