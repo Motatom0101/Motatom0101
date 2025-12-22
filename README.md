@@ -28,7 +28,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Testes de API:** Aprofundamento em testes de API utilizando **Postman**.
 
- - **Linguagens de Programação:** **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos de Web com **JS/HTML/CSS**.
+ - **Linguagens de Programação:** **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos de Web com **JS/HTML/CSS**. **Java**, atualmente.
 
 ### 3. Ferramentas, Infraestrutura & Soft Skills
 Categoria	Habilidades & Ferramentas:
