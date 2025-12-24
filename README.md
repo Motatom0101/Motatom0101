@@ -5,6 +5,7 @@
 
 ![Jira](https://camo.githubusercontent.com/074dd42a464b0543baad5431f23f8a075983d8236b416db98118e213ccd91450/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f6c6f676f3d6a697261266c6f676f436f6c6f723d666666)
 #
+#
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
 Sou um apaixonado por tecnologia, **autodidata em melhoria contínua** e profissional QA Engineer em construção. Desde o começo de 2025 em formação intensiva para me tornar um QA (Quality Assurance) Engineer com a filosofia **Shift Left**. 
 
@@ -156,7 +157,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 
-No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidatas, que comprova minha jornada e conhecimento em QA e TI**. Estes são os principais:
+No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidatas, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
 
 
 
