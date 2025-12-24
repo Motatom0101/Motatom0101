@@ -1,6 +1,9 @@
 #
 # 🧑‍💻 Olá! Sou o Tiago Mota. 👋
+#### 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
+![Jira](https://camo.githubusercontent.com/074dd42a464b0543baad5431f23f8a075983d8236b416db98118e213ccd91450/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f6c6f676f3d6a697261266c6f676f436f6c6f723d666666)
 #
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
 Sou um apaixonado por tecnologia, **autodidata em melhoria contínua** e profissional QA Engineer em construção. Desde o começo de 2025 em formação intensiva para me tornar um QA (Quality Assurance) Engineer com a filosofia **Shift Left**. 
@@ -10,7 +13,8 @@ Apesar de ter começado a publicar meu aprendizado apenas em 2024, comecei a est
 Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. Contudo, hoje tenho certeza do que quero. Meu objetivo é **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando ativamente com o time, o PO e o Product Backlog em ambientes ágeis (Scrum).
 
 **Este repositório** serve como meu **Portfólio Técnico**, onde demonstro minha aplicação prática dos conhecimentos adquiridos.
-
+#
+#
 ## 🎯 Meus Pilares de Conhecimento e Estudo
 Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas nos projetos deste perfil:
 
@@ -28,7 +32,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Testes de API:** Aprofundamento em testes de API utilizando **Postman**.
 
- - **Linguagens de Programação:** **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos de Web com **JS/HTML/CSS**. **Java**, atualmente.
+ - **Linguagens de Programação:** Estudo  **Java**, atualmente. No entanto, já tenho conhecimentos em **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos de Web com **JS/HTML/CSS**.
 
 ### 3. Ferramentas, Infraestrutura & Soft Skills
 Categoria	Habilidades & Ferramentas:
@@ -38,7 +42,8 @@ Categoria	Habilidades & Ferramentas:
    - **Monitoramento:**	Zabbix, Grafana
    - **Gestão de Tickets:**	Zendesk 
    - **Soft Skills Transferíveis para (QA):**	Comunicação Assertiva, Escuta Ativa, Senso Crítico, Investigativo e Atenção aos Detalhes.
-
+#
+#
 ## 🔍 Soft Skills e Hard Skills Aplicadas
 Minha transição para QA é embasada em experiência técnica, soft skills e de minha auto percepção do meu perfil profissional. É onde posso me encaixar fazendo o que amo: Lidar com tecnologias de código, excercer pensamento analítico, crítico e investigativo, buscando defeitos e inconsistências, agregando valor e qualidade ao cliente.
 
@@ -50,11 +55,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 #
-## 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
-
-![Jira](https://camo.githubusercontent.com/074dd42a464b0543baad5431f23f8a075983d8236b416db98118e213ccd91450/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f6c6f676f3d6a697261266c6f676f436f6c6f723d666666)
-
 #
 # Projetos: 
 #
