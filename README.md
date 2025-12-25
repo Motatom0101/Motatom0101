@@ -401,13 +401,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Análise de Dados e Negócios com Microsoft Excel 2019](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a5d42088-c58a-4ef9-8bc4-76cda189f214.pdf)
 
 [Business Intelligence, Teoria sem mistério!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
-
-
-
-
-
-
-##
+#
+#
 ##### 🌐Portfólio e contato profissional:
 📚 [Medium](https://medium.com/@atom.free)
 
