@@ -241,11 +241,14 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 🔗[Lógica de programação e Programação Orientada a Objeto IV — Listas, Funções e Tratamento de Erros](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iv-listas-fun%C3%A7%C3%B5es-e-tratamento-de-erros-fbef2ce95f25)
 
 🔗[Lógica de programação e Programação Orientada a Objeto V — Orientação a Objetos](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-v-orienta%C3%A7%C3%A3o-a-objetos-55b9742726d3)
-
+#
+#
+### Python & Selenium:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
+#
 🔗[Selenium & Python: Seletor CSS de IDs e Classes.](https://medium.com/@atom.free/selenium-python-seletor-css-de-ids-e-classes-124429a21044)
 
 🔗[Python e Selenium Webdriver](https://medium.com/@atom.free/python-e-selenium-webdriver-4ed2c10ea6a7)
-
 
 #
 #
