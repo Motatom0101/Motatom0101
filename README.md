@@ -59,13 +59,21 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 # Projetos: 
 #
-## Java
-[Repo](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
-
+## Java 
+![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
+#
+[**Repo:**](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
+#
+#
 ## Testando APIs com Postman:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
+#
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
+#
 ## JavaScript Puro Completo:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
+#
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
 Veremos os seguintes temas:
 
@@ -77,6 +85,7 @@ Veremos os seguintes temas:
 #
 #
 ## Gherkin Completo e BBD com JavaScript:
+![JavaScript](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
 
  - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
  
@@ -85,11 +94,11 @@ Veremos os seguintes temas:
 #
 #
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin):
+![JavaScript](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript&size=48&theme=light&perline=30)
+
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
-
-
 
 #
 #
@@ -212,6 +221,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## Mais Programação:
 ### JavaScript, DOM, HTML e CSS para QA:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
+
 🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
 
 🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
@@ -220,7 +231,9 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 #
 #
-### Python - Lógica de Programação:
+### Python - Lógica de Programação & POO:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Python&size=48&theme=light&perline=30)
+#
 🔗[Lógica de programação e Programação Orientada a Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
 
 🔗[Lógica de programação e Programação Orientada a Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
@@ -239,6 +252,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ### Python, Postman e API:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
+#
 🔗[API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
 
 🔗[API_2: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-2-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-7408b7162b3e)
@@ -253,6 +268,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ### Python e AWS:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
+#
 🔗[Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
 
 🔗[Python e Boto3_1: Criação de uma tabela DynamoDB na AWS](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
@@ -267,6 +284,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ## Linux: 
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=light&perline=30)
+#
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
 🔗[Linux-1: Minha iniciação ao Linux (WSL2) e programação em Shell Script](https://medium.com/@atom.free/minha-inicia%C3%A7%C3%A3o-ao-linux-wsl2-e-programa%C3%A7%C3%A3o-em-shell-script-a1225d26acde)
@@ -291,6 +310,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ## Git/GitHub:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
+#
 🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
 
 🔗[Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
@@ -313,6 +334,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
+![JavaScript1](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
+#
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
 🔗[SQL-2: Negando duas condições ao mesmo tempo com SQL no SGBD MySQL:](https://medium.com/@atom.free/negando-duas-condi%C3%A7%C3%B5es-ao-mesmo-tempo-com-sql-no-sgbd-mysql-1724b35031bb)
