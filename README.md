@@ -55,12 +55,9 @@ Minha transição para QA é embasada em experiência técnica, soft skills e de
  - **Experiência com Clientes (Telemarketing, Recepção e Inspetor de Segurança em Shopping):** Quase 7 anos de experiência com atendimento ao cliente, desenvolvendo **comunicação construtiva**, cordial, **escuta ativa**, **atenção aos detalhes** e **pensamento crítico e investigativo**, sempre focado em entregar valor e qualidade ao cliente. Essa bagagem é crucial para a colaboração em times de desenvolvimento e para a compreensão profunda das necessidades do produto.
 
 Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills, minhas habilidades de comunicação com o mundo do código**. Estou pronto para aplicar este conhecimento e evoluir na prática.
-
-#
 #
 #
 # Projetos: 
-#
 ## Java 
 ![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
 #
