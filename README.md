@@ -165,6 +165,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 ## 🐞🔍 Artigos sobre QA 🐞🔍:
 
+[**POM (Page Object Model)**](https://medium.com/@atom.free/pom-page-object-model-cec4c7d7d6b9)
+
 🔗[**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
 
 🔗[Os **7 Princípios do Teste** de Software](https://medium.com/@atom.free/os-7-princ%C3%ADpios-do-teste-de-software-d38b1aa1c30e)
