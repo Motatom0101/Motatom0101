@@ -159,7 +159,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 
-No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidatas, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
+No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
 
 
 
