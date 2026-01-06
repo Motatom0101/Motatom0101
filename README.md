@@ -35,7 +35,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Testes de API:** Aprofundamento em testes de API utilizando **Postman**.
 
- - **Linguagens de Programação:** Estudo  **Java**, atualmente. No entanto, já tenho conhecimentos em **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos de Web com **JS/HTML/CSS**.
+ - **Linguagens de Programação:** Conhecimentos em **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos Web com **JS/HTML/CSS**.
 
 ### 3. Ferramentas, Infraestrutura & Soft Skills
 Categoria	Habilidades & Ferramentas:
@@ -48,7 +48,7 @@ Categoria	Habilidades & Ferramentas:
 #
 #
 ## 🔍 Soft Skills e Hard Skills Aplicadas
-Minha transição para QA é embasada em experiência técnica, soft skills e de minha auto percepção do meu perfil profissional. É onde posso me encaixar fazendo o que amo: Lidar com tecnologias de código, excercer pensamento analítico, crítico e investigativo, buscando defeitos e inconsistências, agregando valor e qualidade ao cliente.
+Minha transição para QA é embasada em experiência técnica, soft skills e auto percepção do meu perfil profissional. É onde posso me encaixar fazendo o que amo: Lidar com tecnologias de código, exercer pensamento analítico, crítico e investigativo, buscando Erros, Defeitos, Falhas e inconsistências, além do que pode ser feito para agregar mais valor e qualidade para o cliente.
 
  - **Estágio Técnico em Redes (Nov/2024 a Mar/2025):** Atuei no monitoramento de ativos de rede e hosts utilizando Zabbix e Grafana (alertas via WhatsApp). Utilizei Linux para servidores e **Zendesk para gestão de tickets** de ponta a ponta. Fui o principal ponto de contato entre o time técnico, nossos clientes e seus prestadores de serviços, garantindo o registro, acompanhamento de SLA  dos tickets com terceiros e feedback ao cliente.
 
