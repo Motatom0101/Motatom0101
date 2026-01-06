@@ -58,12 +58,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 # Projetos: 
-## Java 
-![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
-#
-[**Repo:**](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
-#
-#
+
 ## Testando APIs com Postman:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
 #
@@ -282,9 +277,15 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 🔗[Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
- 
 #
 #
+## Java: 
+![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
+#
+[**Repo:**](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
+#
+#
+
 ## Linux: 
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=light&perline=30)
 #
