@@ -73,6 +73,17 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 #
 #
+### JavaScript, DOM, HTML e CSS para QA:
+![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
+
+🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
+
+🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
+
+🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
+
+#
+#
 ## JavaScript Puro Completo:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
 #
@@ -215,16 +226,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 #
 ## Mais Programação:
-### JavaScript, DOM, HTML e CSS para QA:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
-
-🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
-
-🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
-
-🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
-
-#
 #
 ### Python - Lógica de Programação & POO:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python&size=48&theme=light&perline=30)
