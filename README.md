@@ -5,7 +5,7 @@
 #### 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
-![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin%2CJira&size=48&theme=light&perline=30)
+[![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin%2CJira&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 #
 #
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
@@ -381,35 +381,37 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 # 📚 Principais cursos que realizei:
 
-[Introdução ao Ágil e Scrum](https://udemy-certificate.s3.amazonaws.com/image/UC-5f4dfe2b-3323-46ce-bcc9-4d3181645902.jpg)
+[**Git e Github** do zero ao avançado](https://www.udemy.com/certificate/UC-6122520b-8de8-4e14-98da-0e4715d4b592/)
 
-[Teste de Software Manual: Do Planejamento à Execução](https://udemy-certificate.s3.amazonaws.com/image/UC-80ddaa4a-3e76-4315-904f-03eb5e9b9d1e.jpg)
+[Introdução ao **Ágil e Scrum**](https://udemy-certificate.s3.amazonaws.com/image/UC-5f4dfe2b-3323-46ce-bcc9-4d3181645902.jpg)
 
-[Domine Histórias de Usuário no Scrum](https://udemy-certificate.s3.amazonaws.com/image/UC-ab384c66-9e14-4599-80ed-1114d3294e75.jpg)
+[**Teste de Software Manual**: Do **Planejamento à Execução**](https://udemy-certificate.s3.amazonaws.com/image/UC-80ddaa4a-3e76-4315-904f-03eb5e9b9d1e.jpg)
 
-[Intensivo de Inglês](https://drive.google.com/file/d/1La43aoS2XRsUdIrvL7MHnelhE6phsvIi/view)
+[Domine **Histórias de Usuário no Scrum**](https://udemy-certificate.s3.amazonaws.com/image/UC-ab384c66-9e14-4599-80ed-1114d3294e75.jpg)
 
-[Lógica de Programação e Orientação a Objetos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
+[Intensivo de **Inglês**](https://drive.google.com/file/d/1La43aoS2XRsUdIrvL7MHnelhE6phsvIi/view)
 
-[Curso Analista de testes - QA](https://www.youtube.com/watch?v=XB6tZB3wX4M&list=PLQ3tGxEilbe4xOBBhnBr7-TQgp4U0Js9D)
+[**Lógica de Programação e Orientação a Objetos**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
 
-[Formação em Redes de Computadores Módulo 2](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1a529ad7-c293-42be-ab89-c92a7390c3df.pdf)
+[Curso **Analista de testes - QA**](https://www.youtube.com/watch?v=XB6tZB3wX4M&list=PLQ3tGxEilbe4xOBBhnBr7-TQgp4U0Js9D)
 
-[Formação em Redes de Computadores - Módulo 1](https://udemy-certificate.s3.amazonaws.com/image/UC-97735d56-3eeb-4bd8-ae6d-1f3d4d478e5d.jpg)
+[Formação em **Redes de Computadores** Módulo 2](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1a529ad7-c293-42be-ab89-c92a7390c3df.pdf)
 
-[Fundamentos de Redes para DevOps](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbcc596a-05b3-4e72-b051-fb5d891855f7.pdf)
+[Formação em **Redes de Computadores** - Módulo 1](https://udemy-certificate.s3.amazonaws.com/image/UC-97735d56-3eeb-4bd8-ae6d-1f3d4d478e5d.jpg)
 
-[AWS Lambda com Python e Serverless Framework](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0947b18a-9ff9-4008-9211-b94e3e09471d.pdf)
+[Fundamentos de **Redes para DevOps**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbcc596a-05b3-4e72-b051-fb5d891855f7.pdf)
 
-[Linux Bootcamp: Trilha de aprendizado rápido (Devs e DevOps)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f8526e3b-b0c6-49b5-9316-7c3d2f8ed988.pdf)
+[**AWS Lambda** com **Python e Serverless Framework**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0947b18a-9ff9-4008-9211-b94e3e09471d.pdf)
 
-[Aprenda a Extrair Dados de APIs com Python do Zero!](https://udemy-certificate.s3.amazonaws.com/image/UC-ccb006b8-c4a0-4d2a-a4d5-e81c06da2c19.jpg)
+[**Linux Bootcamp**: Trilha de aprendizado rápido (**Devs e DevOps**)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f8526e3b-b0c6-49b5-9316-7c3d2f8ed988.pdf)
 
-[Linguagem SQL para Análise de Dados com BigQuery](https://udemy-certificate.s3.amazonaws.com/image/UC-1b36f090-4428-479e-a73f-c95a05c0768a.jpg)
+[Aprenda a **Extrair Dados de APIs com Python** do Zero!](https://udemy-certificate.s3.amazonaws.com/image/UC-ccb006b8-c4a0-4d2a-a4d5-e81c06da2c19.jpg)
 
-[Análise de Dados e Negócios com Microsoft Excel 2019](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a5d42088-c58a-4ef9-8bc4-76cda189f214.pdf)
+[Linguagem **SQL para Análise de Dados** com **BigQuery**](https://udemy-certificate.s3.amazonaws.com/image/UC-1b36f090-4428-479e-a73f-c95a05c0768a.jpg)
 
-[Business Intelligence, Teoria sem mistério!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
+[**Análise de Dados para Negócios** com Microsoft **Excel** 2019](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a5d42088-c58a-4ef9-8bc4-76cda189f214.pdf)
+
+[**Business Intelligence**, **Teoria sem mistério**!!!](https://udemy-certificate.s3.amazonaws.com/image/UC-56def62f-738d-497d-abd4-0db275b3f991.jpg)
 #
 #
 ##### 🌐Portfólio e contato profissional:
