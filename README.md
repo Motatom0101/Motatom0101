@@ -377,7 +377,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 🔗[Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
 
-🔗[Git_GitHub-5: Revertendo arquivos (checkout).](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
+🔗[Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
 
 🔗[Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
 
