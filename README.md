@@ -7,18 +7,18 @@
 
 [![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin%2CJira&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 #
-### 🔍 Navegação rápida:
+### 🎯 Navegação rápida:
 
-[🎯Sobre mim](#-qa-engineer-em-construção--foco-em-shift-left--automação)
-[🎯Projetos](#projetos)
-[🎯Meus Artigos](#-documentação-do-meu-aprendizado-%E2%80%8D)
-[🎯Mais Programação](#mais-programação)
-[🎯Linux](#linux)
-[🎯Git/GitHub/GitHub Action](#gitgithub)
-[🎯SQL](#sql-no-bigquery-gcp-google-cloud-plataform)
-[🔍Redes, infra e monitoramento](#redes-e-monitoramento-zabbix)
-[🎯Cursos Realizados e Certificações](#-principais-cursos-que-realizei)
-[🎯Contato](#portfólio-e-contato-profissional)
+[🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
+[🔍**Projetos**](#projetos)
+[🔍**Meus Artigos**](#-documentação-do-meu-aprendizado-%E2%80%8D)
+[🔍**Mais Programação**](#mais-programação)
+[🔍**Linux**](#linux)
+[🔍**Git/GitHub**](#gitgithub)
+[🔍**SQL**](#sql-no-bigquery-gcp-google-cloud-plataform)
+[🔍**Redes** & **monitoramento**](#redes-e-monitoramento-zabbix)
+[🔍**Cursos Realizados** e **Certificações**](#-principais-cursos-que-realizei)
+[🔍**Contato**](#portfólio-e-contato-profissional)
 
 #
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
