@@ -7,7 +7,7 @@
 
 [![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin%2CJira&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 #
-### 🎯 Navegação rápida:
+### 🎯 Menu:
 
 [🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
 [🔍**Projetos**](#projetos)
@@ -69,6 +69,8 @@ Minha transição para QA é embasada em experiência técnica, soft skills e au
 
 Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills, minhas habilidades de comunicação com o mundo do código**. Estou pronto para aplicar este conhecimento e evoluir na prática.
 #
+
+
 #
 # Projetos: 
 
@@ -94,6 +96,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
 
 🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
+#
 
 #
 #### Projeto HTML, CSS, JS e Vue.js
@@ -122,6 +125,7 @@ Veremos os seguintes temas:
  - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
 
 #
+
 #
 ## Teste Funcional:
 
@@ -135,6 +139,7 @@ Veremos os seguintes temas:
 Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
 
 #
+
 #
 ## Plano de Testes:
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
@@ -145,6 +150,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
 
 #
+
 #
 ## Abertura, Gerenciamento e Rastreio de Bugs:
  - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
@@ -154,6 +160,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
    
 
 #
+
 #
 ## Epics, User Story e Tasks no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
@@ -190,9 +197,12 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
 
 
+#
 
+#
 ## 🐞🔍 Artigos sobre QA 🐞🔍:
-
+[Voltar ao Menu!](#-navegação-rápida)
+#
 🔗[**POM (Page Object Model)**](https://medium.com/@atom.free/pom-page-object-model-cec4c7d7d6b9)
 
 🔗[**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
