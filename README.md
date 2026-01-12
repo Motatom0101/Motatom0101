@@ -73,7 +73,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 #
 # Projetos: 
-
 ## Testando APIs com Postman:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
 
@@ -90,9 +89,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 #
 #
-### JavaScript, DOM, HTML e CSS para QA:
-
-#
+## JavaScript, DOM, HTML e CSS para QA:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
 🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
@@ -107,7 +104,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 [Voltar ao Menu!](#-menu)
 #
 ## JavaScript Puro Completo:
-#
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
 #
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
@@ -122,7 +118,6 @@ Veremos os seguintes temas:
 [Voltar ao Menu!](#-menu)
 #
 ## Gherkin Completo e BBD com JavaScript:
-#
 ![JavaScript](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
 
  - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
@@ -133,8 +128,6 @@ Veremos os seguintes temas:
 [Voltar ao Menu!](#-menu)
 #
 ## Teste Funcional:
-#
-
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
 
    - BDD;
@@ -148,7 +141,6 @@ Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e e
 [Voltar ao Menu!](#-menu)
 #
 ## Plano de Testes:
-#
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
 
 Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, documentei as funcionalidades, User Stories, Regras de Negócio e Critérios de Aceite no miro. Depois, montei o plano de testes no Google Sheets. 
@@ -160,8 +152,6 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 [Voltar ao Menu!](#-menu)
 #
 ## Abertura, Gerenciamento e Rastreio de Bugs:
-
-#
  - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
  
 Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
@@ -202,12 +192,9 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 [Voltar ao Menu!](#-menu)
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
-#
 No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
 #
-#
 ## 🐞🔍 Artigos sobre QA 🐞🔍:
-#
 🔗[**POM (Page Object Model)**](https://medium.com/@atom.free/pom-page-object-model-cec4c7d7d6b9)
 
 🔗[**Pirâmide de Testes** e **Níveis de Testes** de Software](https://medium.com/@atom.free/pir%C3%A2mide-de-testes-e-n%C3%ADveis-de-testes-de-software-c0d1f574e819)
@@ -258,9 +245,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 [Voltar ao Menu!](#-menu)
 #
-## Mais Programação:
-#
-### Python - Lógica de Programação & POO:
+# Mais Programação:
+## Python - Lógica de Programação & POO:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python&size=48&theme=light&perline=30)
 #
 🔗[Lógica de programação e Programação Orientada a Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
@@ -276,8 +262,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 [Voltar ao Menu!](#-menu)
 #
-### Python & Selenium:
-#
+## Python & Selenium:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
 #
 🔗[Selenium & Python: Seletor CSS de IDs e Classes.](https://medium.com/@atom.free/selenium-python-seletor-css-de-ids-e-classes-124429a21044)
@@ -287,8 +272,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 [Voltar ao Menu!](#-menu)
 #
-### Python, Postman e API:
-#
+## Python, Postman e API:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
 #
 🔗[API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
@@ -305,9 +289,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 [Voltar ao Menu!](#-menu)
 #
-### Python e AWS:
-
-#
+## Python e AWS:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
 #
 🔗[Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
@@ -324,7 +306,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Voltar ao Menu!](#-menu)
 #
 ## Java: 
-#
 ![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
 #
 [**Repo:**](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
@@ -332,7 +313,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 
 ## Linux: 
-#
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=light&perline=30)
 #
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
@@ -360,7 +340,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Voltar ao Menu!](#-menu)
 #
 ## Git/GitHub:
-#
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
 #
 🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
@@ -386,7 +365,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Voltar ao Menu!](#-menu)
 #
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
-#
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
 #
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
@@ -408,7 +386,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Voltar ao Menu!](#-menu)
 #
 ## Redes e Monitoramento (Zabbix):
-#
 🔗[Redes-1: Introdução à redes de computadores para DevOps](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-%C3%A0-redes-de-computadores-para-devops-360940a95c2b)
 
 🔗[Redes de Computadores: Configurando e conectando Roteadores Cisco](https://medium.com/@atom.free/redes-de-computadores-configurando-e-conectando-roteadores-cisco-d88d5363d527)
@@ -426,7 +403,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 [Voltar ao Menu!](#-menu)
 #
 # 📚 Principais cursos que realizei:
-#
 [**Git e Github** do zero ao avançado](https://www.udemy.com/certificate/UC-6122520b-8de8-4e14-98da-0e4715d4b592/)
 
 [Introdução ao **Ágil e Scrum**](https://udemy-certificate.s3.amazonaws.com/image/UC-5f4dfe2b-3323-46ce-bcc9-4d3181645902.jpg)
