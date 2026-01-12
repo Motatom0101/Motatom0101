@@ -78,7 +78,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin):
 ![JavaScript](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript&size=48&theme=light&perline=30)
@@ -100,7 +100,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## JavaScript Puro Completo:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
@@ -114,7 +114,7 @@ Veremos os seguintes temas:
  - **JavaScript moderno**;
  - **Códigos documentados** (comentários enxutos e explicativos).
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Gherkin Completo e BBD com JavaScript:
 ![JavaScript](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
@@ -124,7 +124,7 @@ Veremos os seguintes temas:
  - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Teste Funcional:
  - [Teste Funcional](https://medium.com/@atom.free/teste-funcional-manual-d51b723d1cdf): Este é meu primeiro teste funcional manual, com base no curso teste de software da Marci Ribeiro, disponível no canal dela no Youtube. Neste curso foi abordado os seguintes temas:
@@ -137,7 +137,7 @@ Veremos os seguintes temas:
 Além disso, abordamos boas práticas, conceitos de metodologia ágil Scrum, e elaboração de relatório com direito a gráficos no “Status e report”.
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Plano de Testes:
  - [Plano de Testes](https://github.com/Motatom0101/Plano-de-Teste): Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática" do curso "Teste de Software Manual: Do Planejamento à Execução". 
@@ -148,7 +148,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Abertura, Gerenciamento e Rastreio de Bugs:
  - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
@@ -157,7 +157,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Epics, User Story e Tasks no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
@@ -188,7 +188,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
  -  6º Artigo - [Mapeamento de Users Stories](https://medium.com/@atom.free/mapeamento-de-users-stories-24ae272059b1): Aqui veremos os Épicos sendo quebrados em funcionalidades, depois em User Stories mais completas e entregáveis.
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
 No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/2024** mantenho um acervo com **mais de 100 artigos técnicos** documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais:
@@ -242,7 +242,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 # Mais Programação:
 ## Python - Lógica de Programação & POO:
@@ -259,7 +259,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 🔗[Lógica de programação e Programação Orientada a Objeto V — Orientação a Objetos](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-v-orienta%C3%A7%C3%A3o-a-objetos-55b9742726d3)
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Python & Selenium:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
@@ -269,7 +269,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 🔗[Python e Selenium Webdriver](https://medium.com/@atom.free/python-e-selenium-webdriver-4ed2c10ea6a7)
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Python, Postman e API:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
@@ -286,7 +286,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Python e AWS:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
@@ -302,7 +302,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 🔗[Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Java: 
 ![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
@@ -336,7 +336,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Git/GitHub:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
@@ -361,7 +361,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
@@ -382,7 +382,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 ## Redes e Monitoramento (Zabbix):
 🔗[Redes-1: Introdução à redes de computadores para DevOps](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-%C3%A0-redes-de-computadores-para-devops-360940a95c2b)
@@ -399,7 +399,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 # 📚 Principais cursos que realizei:
 [**Git e Github** do zero ao avançado](https://www.udemy.com/certificate/UC-6122520b-8de8-4e14-98da-0e4715d4b592/)
@@ -440,7 +440,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 
 💬 [Linkedin](https://www.linkedin.com/in/7iago-m-4a330b1bb/)
 #
-[Voltar ao Menu!](#-menu)
+#### ↩️[Voltar ao Menu!](#-menu)
 #
 
 
