@@ -76,7 +76,6 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 ## Testando APIs com Postman:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
 
-#
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
 [Voltar ao Menu!](#-menu)
@@ -97,7 +96,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
 
 🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
-#
+
  - **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
 
 #
@@ -105,7 +104,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 ## JavaScript Puro Completo:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
-#
+
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
 Veremos os seguintes temas:
 
@@ -248,7 +247,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 # Mais Programação:
 ## Python - Lógica de Programação & POO:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python&size=48&theme=light&perline=30)
-#
+
 🔗[Lógica de programação e Programação Orientada a Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
 
 🔗[Lógica de programação e Programação Orientada a Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
@@ -264,7 +263,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## Python & Selenium:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
-#
+
 🔗[Selenium & Python: Seletor CSS de IDs e Classes.](https://medium.com/@atom.free/selenium-python-seletor-css-de-ids-e-classes-124429a21044)
 
 🔗[Python e Selenium Webdriver](https://medium.com/@atom.free/python-e-selenium-webdriver-4ed2c10ea6a7)
@@ -274,7 +273,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## Python, Postman e API:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
-#
+
 🔗[API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
 
 🔗[API_2: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-2-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-7408b7162b3e)
@@ -291,7 +290,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## Python e AWS:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
-#
+
 🔗[Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
 
 🔗[Python e Boto3_1: Criação de uma tabela DynamoDB na AWS](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
@@ -307,14 +306,14 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## Java: 
 ![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
-#
+
 [**Repo:**](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
 #
 #
 
 ## Linux: 
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=light&perline=30)
-#
+
 🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
 🔗[Linux-1: Minha iniciação ao Linux (WSL2) e programação em Shell Script](https://medium.com/@atom.free/minha-inicia%C3%A7%C3%A3o-ao-linux-wsl2-e-programa%C3%A7%C3%A3o-em-shell-script-a1225d26acde)
@@ -341,7 +340,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## Git/GitHub:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
-#
+
 🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
 
 🔗[Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
@@ -366,7 +365,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
-#
+
 🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
 🔗[SQL-2: Negando duas condições ao mesmo tempo com SQL no SGBD MySQL:](https://medium.com/@atom.free/negando-duas-condi%C3%A7%C3%B5es-ao-mesmo-tempo-com-sql-no-sgbd-mysql-1724b35031bb)
