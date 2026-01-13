@@ -402,6 +402,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### ↩️[Voltar ao Menu!](#-menu)
 #
 # 📚 Principais cursos que realizei:
+[Automação Web - **Cypress e Cucumber**](https://www.udemy.com/certificate/UC-fe0754ca-d26a-4fdf-84b3-51f9136cbabc/)
+
 [**Git e Github** do zero ao avançado](https://www.udemy.com/certificate/UC-6122520b-8de8-4e14-98da-0e4715d4b592/)
 
 [Introdução ao **Ágil e Scrum**](https://udemy-certificate.s3.amazonaws.com/image/UC-5f4dfe2b-3323-46ce-bcc9-4d3181645902.jpg)
