@@ -1,5 +1,5 @@
 #
-# 🧑‍💻 Olá! Sou o Tiago Mota. 👋
+# 🧑‍💻 Olá! Sou o Tiago. 👋
 #
 #
 #### 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
