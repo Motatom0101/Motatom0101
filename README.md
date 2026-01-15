@@ -102,11 +102,10 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 - [JavaScript para QAs -Parte 2: **Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções**](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
 
 - [JavaScript para QAs -Parte 3: **BDD na prática com controle de fluxo**](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
-
-- **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
   
 - [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
 
+- **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
 
 </details>
 
