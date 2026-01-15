@@ -246,17 +246,28 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 # Mais Programação:
 ## Python - Lógica de Programação & POO:
+
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python&size=48&theme=light&perline=30)
 
-🔗[Lógica de programação e Programação Orientada a Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Lógica de programação e Programação Orientada a Objeto](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-2c30846465de)
 
-🔗[Lógica de programação e Programação Orientada a Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
+- [Lógica de programação e Programação Orientada a Objeto II — Estrutura de Repetição](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-ii-estrutura-de-repeti%C3%A7%C3%A3o-dafa82f970e3)
 
-🔗[Lógica de programação e Programação Orientada a Objeto III — Fluxograma](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iii-fluxograma-97ab4a9af581)
+- [Lógica de programação e Programação Orientada a Objeto III — Fluxograma](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iii-fluxograma-97ab4a9af581)
 
-🔗[Lógica de programação e Programação Orientada a Objeto IV — Listas, Funções e Tratamento de Erros](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iv-listas-fun%C3%A7%C3%B5es-e-tratamento-de-erros-fbef2ce95f25)
+- [Lógica de programação e Programação Orientada a Objeto IV — Listas, Funções e Tratamento de Erros](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-iv-listas-fun%C3%A7%C3%B5es-e-tratamento-de-erros-fbef2ce95f25)
 
-🔗[Lógica de programação e Programação Orientada a Objeto V — Orientação a Objetos](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-v-orienta%C3%A7%C3%A3o-a-objetos-55b9742726d3)
+- [Lógica de programação e Programação Orientada a Objeto V — Orientação a Objetos](https://medium.com/@atom.free/l%C3%B3gica-de-programa%C3%A7%C3%A3o-e-programa%C3%A7%C3%A3o-orientada-%C3%A0-objeto-v-orienta%C3%A7%C3%A3o-a-objetos-55b9742726d3)
+
+</details>
+
+
 
 #
 #### ↩️[Voltar ao Menu!](#-menu)
@@ -264,9 +275,18 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 ## Python & Selenium:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
 
-🔗[Selenium & Python: Seletor CSS de IDs e Classes.](https://medium.com/@atom.free/selenium-python-seletor-css-de-ids-e-classes-124429a21044)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Selenium & Python: Seletor CSS de IDs e Classes.](https://medium.com/@atom.free/selenium-python-seletor-css-de-ids-e-classes-124429a21044)
 
-🔗[Python e Selenium Webdriver](https://medium.com/@atom.free/python-e-selenium-webdriver-4ed2c10ea6a7)
+- [Python e Selenium Webdriver](https://medium.com/@atom.free/python-e-selenium-webdriver-4ed2c10ea6a7)
+
+</details>
+
 
 #
 #### ↩️[Voltar ao Menu!](#-menu)
@@ -274,16 +294,23 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 ## Python, Postman e API:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
 
-🔗[API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [API_1: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-1-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-48a34e209bb8)
 
-🔗[API_2: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-2-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-7408b7162b3e)
+- [API_2: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-2-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-7408b7162b3e)
 
-🔗[API_3: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-3-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-44da8c4a4900)
+- [API_3: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-3-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-44da8c4a4900)
 
-🔗[API_4: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-4-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-a74f7507ebc0)
+- [API_4: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-4-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-a74f7507ebc0)
 
-🔗[API_5: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-5-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-85be59d02b45)
+- [API_5: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-5-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-85be59d02b45)
 
+</details>
 
 #
 #### ↩️[Voltar ao Menu!](#-menu)
@@ -291,15 +318,33 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 ## Python e AWS:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
 
-🔗[Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
 
-🔗[Python e Boto3_1: Criação de uma tabela DynamoDB na AWS](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
+- [Python e Boto3_1: Criação de uma tabela DynamoDB na AWS](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
 
-🔗[Python e Boto3_2: Descrição de uma instância EC2 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-2-descri%C3%A7%C3%A3o-de-uma-inst%C3%A2ncia-ec2-na-aws-a7c6eff2167b)
+- [Python e Boto3_2: Descrição de uma instância EC2 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-2-descri%C3%A7%C3%A3o-de-uma-inst%C3%A2ncia-ec2-na-aws-a7c6eff2167b)
 
-🔗[Python e Boto3_3: Listagem de buckets s3 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-3-listagem-de-buckets-s3-na-aws-fdac241f93c5)
+- [Python e Boto3_3: Listagem de buckets s3 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-3-listagem-de-buckets-s3-na-aws-fdac241f93c5)
+  
+- [Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
-🔗[Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
+</details>
+
+
+
+
+
+
+
+
+
+🔗
 
 #
 #### ↩️[Voltar ao Menu!](#-menu)
@@ -307,33 +352,50 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 ## Java: 
 ![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
 
-[**Repo:**](https://github.com/Motatom0101/curso-desenvolvimento-java) Este repositório conterá a documentação de meu aprendizado com a linguagem de programação Java.
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)
+
+</details>
+
+
 #
 #
 
 ## Linux: 
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux&size=48&theme=light&perline=30)
 
-🔗[Adm Linux_1](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Adm Linux](https://medium.com/@atom.free/adm-linux-1-368fdeb72fec)
 
-🔗[Linux-1: Minha iniciação ao Linux (WSL2) e programação em Shell Script](https://medium.com/@atom.free/minha-inicia%C3%A7%C3%A3o-ao-linux-wsl2-e-programa%C3%A7%C3%A3o-em-shell-script-a1225d26acde)
+- [Linux-1: Minha iniciação ao Linux (WSL2) e programação em Shell Script](https://medium.com/@atom.free/minha-inicia%C3%A7%C3%A3o-ao-linux-wsl2-e-programa%C3%A7%C3%A3o-em-shell-script-a1225d26acde)
 
-🔗[Linux-2: Criação de servidor Linux Ubuntu na AWS e na VitualBox, com acesso remoto pelo puTTY e WSL2](https://medium.com/@atom.free/cria%C3%A7%C3%A3o-de-servidor-linux-ubuntu-na-aws-e-na-vitualbox-com-acesso-remoto-pelo-putty-e-wsl2-c56458fbdc6f)
+- [Linux-2: Criação de servidor Linux Ubuntu na AWS e na VitualBox, com acesso remoto pelo puTTY e WSL2](https://medium.com/@atom.free/cria%C3%A7%C3%A3o-de-servidor-linux-ubuntu-na-aws-e-na-vitualbox-com-acesso-remoto-pelo-putty-e-wsl2-c56458fbdc6f)
 
-🔗[Linux-3: Filtrando a exibição de arquivos no Linux](https://medium.com/@atom.free/filtrando-a-exibi%C3%A7%C3%A3o-de-arquivos-no-linux-c9f1eb04b4d4)
+- [Linux-3: Filtrando a exibição de arquivos no Linux](https://medium.com/@atom.free/filtrando-a-exibi%C3%A7%C3%A3o-de-arquivos-no-linux-c9f1eb04b4d4)
 
-🔗[Linux-4: Localizando arquivos no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/localizando-arquivos-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-30771dcb9988)
+- [Linux-4: Localizando arquivos no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/localizando-arquivos-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-30771dcb9988)
 
-🔗[Linux-5: Criando diretórios no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-5-criando-diret%C3%B3rios-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-c34daecd0561)
+- [Linux-5: Criando diretórios no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-5-criando-diret%C3%B3rios-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-c34daecd0561)
 
-🔗[Linux-6: Excluindo arquivos e diretórios no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-6-excluindo-arquivos-e-diret%C3%B3rios-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-05e2238eae61)
+- [Linux-6: Excluindo arquivos e diretórios no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-6-excluindo-arquivos-e-diret%C3%B3rios-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-05e2238eae61)
 
-🔗[Linux-7: Obtendo ajuda no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-7-obtendo-ajuda-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-42f0e7384bfb)
+- [Linux-7: Obtendo ajuda no Ubuntu server, mediante acesso remoto através do puTTY.](https://medium.com/@atom.free/linux-7-obtendo-ajuda-no-ubuntu-server-mediante-acesso-remoto-atrav%C3%A9s-do-putty-42f0e7384bfb)
 
-🔗[Linux-8: Executando tarefas administrativas com usuário root.](https://medium.com/@atom.free/linux-8-executando-tarefas-administrativas-com-usu%C3%A1rio-root-b52cd87b417a)
+- [Linux-8: Executando tarefas administrativas com usuário root.](https://medium.com/@atom.free/linux-8-executando-tarefas-administrativas-com-usu%C3%A1rio-root-b52cd87b417a)
 
-🔗[Linux-9: Liberando acesso remoto root.](https://medium.com/@atom.free/liberando-acesso-remoto-do-usu%C3%A1rio-root-a3be7681796b)
+- [Linux-9: Liberando acesso remoto root.](https://medium.com/@atom.free/liberando-acesso-remoto-do-usu%C3%A1rio-root-a3be7681796b)
 
+</details>
 
 #
 #### ↩️[Voltar ao Menu!](#-menu)
@@ -341,23 +403,31 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 ## Git/GitHub:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
 
-🔗[Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
 
-🔗[Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
+- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
 
-🔗[Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
+- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
+  
+- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
 
-🔗[Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
+- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
 
-🔗[Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
+- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
 
-🔗[Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
+- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
 
-🔗[Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
+- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
 
-🔗[Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
+- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
 
-🔗[Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
+</details>
 
 
 #
@@ -366,37 +436,52 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
 
-🔗[SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [SQL-1: Consulta SQL clientes que são funcionários](https://medium.com/@atom.free/consulta-sql-clientes-que-s%C3%A3o-funcion%C3%A1rios-4392182aa64e)
 
-🔗[SQL-2: Negando duas condições ao mesmo tempo com SQL no SGBD MySQL:](https://medium.com/@atom.free/negando-duas-condi%C3%A7%C3%B5es-ao-mesmo-tempo-com-sql-no-sgbd-mysql-1724b35031bb)
+- [SQL-2: Negando duas condições ao mesmo tempo com SQL no SGBD MySQL:](https://medium.com/@atom.free/negando-duas-condi%C3%A7%C3%B5es-ao-mesmo-tempo-com-sql-no-sgbd-mysql-1724b35031bb)
 
-🔗[SQL-3: Uso da função ‘date_format()’ para personalizar formato de data e horas nas consultas:](https://medium.com/@atom.free/uso-da-fun%C3%A7%C3%A3o-date-format-para-personalizar-formato-de-data-e-horas-nas-consultas-05f06f8fe22c)
+- [SQL-3: Uso da função ‘date_format()’ para personalizar formato de data e horas nas consultas:](https://medium.com/@atom.free/uso-da-fun%C3%A7%C3%A3o-date-format-para-personalizar-formato-de-data-e-horas-nas-consultas-05f06f8fe22c)
 
-🔗[SQL-4(BigQuey): SQL, BigQuery e às facilidades do GCP](https://medium.com/@atom.free/sql-bigquery-e-%C3%A0s-facilidades-do-gcp-dded08f81314)
+- [SQL-4(BigQuey): SQL, BigQuery e às facilidades do GCP](https://medium.com/@atom.free/sql-bigquery-e-%C3%A0s-facilidades-do-gcp-dded08f81314)
 
-🔗[SQL-5(BigQuey): Uso do Alias (AS) do SQL BigQuery e nosso promeiro Join (Inner Join)](https://medium.com/@atom.free/uso-do-alias-as-do-sql-bigquery-e-nosso-promeiro-join-inner-join-43150b45ad0e)
+- [SQL-5(BigQuey): Uso do Alias (AS) do SQL BigQuery e nosso promeiro Join (Inner Join)](https://medium.com/@atom.free/uso-do-alias-as-do-sql-bigquery-e-nosso-promeiro-join-inner-join-43150b45ad0e)
 
-🔗[SQL-6(BigQuey):Comandos Condicionais (IF, CASE, COALESCE) no BiqQuery](https://medium.com/@atom.free/comandos-condicionais-if-case-coalesce-no-biqquery-37c1f47bfb77)
+- [SQL-6(BigQuey):Comandos Condicionais (IF, CASE, COALESCE) no BiqQuery](https://medium.com/@atom.free/comandos-condicionais-if-case-coalesce-no-biqquery-37c1f47bfb77)
 
-🔗[SQL-7(BigQuey): Função de Agregação em SQL -parte I](https://medium.com/@atom.free/fun%C3%A7%C3%A3o-de-agrega%C3%A7%C3%A3o-em-sql-parte-i-f4b3111b00dd)
-
+- [SQL-7(BigQuey): Função de Agregação em SQL -parte I](https://medium.com/@atom.free/fun%C3%A7%C3%A3o-de-agrega%C3%A7%C3%A3o-em-sql-parte-i-f4b3111b00dd)
+    
+</details>
 
 #
-#### ↩️[Voltar ao Menu!](#-menu)
+#### [↩️](#-menu)
 #
 ## Redes e Monitoramento (Zabbix):
-🔗[Redes-1: Introdução à redes de computadores para DevOps](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-%C3%A0-redes-de-computadores-para-devops-360940a95c2b)
 
-🔗[Redes de Computadores: Configurando e conectando Roteadores Cisco](https://medium.com/@atom.free/redes-de-computadores-configurando-e-conectando-roteadores-cisco-d88d5363d527)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Redes-1: Introdução à redes de computadores para DevOps](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-%C3%A0-redes-de-computadores-para-devops-360940a95c2b)
 
-🔗[Redes de Computadores: Criando uma LAN doméstica ou para empresa de pequeno porte.](https://medium.com/@atom.free/redes-de-computadores-criando-uma-lan-dom%C3%A9stica-ou-para-empresa-de-pequeno-porte-4ba49ad11013)
+- [Redes de Computadores: Configurando e conectando Roteadores Cisco](https://medium.com/@atom.free/redes-de-computadores-configurando-e-conectando-roteadores-cisco-d88d5363d527)
 
-🔗[Redes de Computadores: Criando uma LAN para escritório de pequeno porte.](https://medium.com/@atom.free/redes-de-computadores-criando-uma-lan-para-eescrit%C3%A1rio-de-pequeno-porte-2e58d63cac5a)
+- [Redes de Computadores: Criando uma LAN doméstica ou para empresa de pequeno porte.](https://medium.com/@atom.free/redes-de-computadores-criando-uma-lan-dom%C3%A9stica-ou-para-empresa-de-pequeno-porte-4ba49ad11013)
 
-🔗[Monitoramento com Zabbix — parte1: Instalação](https://medium.com/@atom.free/monitoramento-com-zabbix-366fcab1cc61)
+- [Redes de Computadores: Criando uma LAN para escritório de pequeno porte.](https://medium.com/@atom.free/redes-de-computadores-criando-uma-lan-para-eescrit%C3%A1rio-de-pequeno-porte-2e58d63cac5a)
 
-🔗[Monitoramento com Zabbix — parte2: Configurando o 1º host (ICMP)](https://medium.com/@atom.free/monitoramento-com-zabbix-parte2-configurando-o-1%C2%BA-host-icmp-d37e5c2eb6a1)
+- [Monitoramento com Zabbix — parte1: Instalação](https://medium.com/@atom.free/monitoramento-com-zabbix-366fcab1cc61)
 
+- [Monitoramento com Zabbix — parte2: Configurando o 1º host (ICMP)](https://medium.com/@atom.free/monitoramento-com-zabbix-parte2-configurando-o-1%C2%BA-host-icmp-d37e5c2eb6a1)
+
+</details>
 
 #
 #### ↩️[Voltar ao Menu!](#-menu)
