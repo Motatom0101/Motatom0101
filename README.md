@@ -115,7 +115,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #### [↩️](#-menu)
 #
 ## JavaScript Puro Completo:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
 
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
 Veremos os seguintes temas:
