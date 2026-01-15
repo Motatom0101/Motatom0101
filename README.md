@@ -88,16 +88,29 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 #
 #
-## JavaScript, DOM, HTML e CSS para QA:
+## JavaScript, DOM, HTML e CSS, Gherkin e BDD:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
-🔗[JavaScript Para QA — Parte 1: Introdução ao DOM, JS, HTML e CSS](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [JavaScript Para QA — Parte 1: **Introdução ao DOM, JS, HTML e CSS**](https://medium.com/@atom.free/javascript-para-qa-parte-1-f989ea2d6cb6)
 
-🔗[JavaScript para QAs -Parte 2: Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
+- [JavaScript para QAs -Parte 2: **Variáveis, tipos de dados, Operadores matemáticos, Operadores de Comparação e Funções**](https://medium.com/@atom.free/javascript-para-qas-parte2-vari%C3%A1veis-tipos-de-dados-operadores-matem%C3%A1ticos-operadores-de-de9a5f851f55)
 
-🔗[JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
+- [JavaScript para QAs -Parte 3: **BDD na prática com controle de fluxo**](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc)
 
- - **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
+- **Projeto HTML, CSS, JS e Vue.js:** [Star Wars Lego](https://github.com/Motatom0101/Curso-JavaScript-Para-QA)
+  
+- [Escrita de **cenários de testes em Gherkin**](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
+
+
+</details>
+
+
 
 #
 #### [↩️](#-menu)
@@ -113,15 +126,7 @@ Veremos os seguintes temas:
  - **Fundamentos de JavaScript Funcional**[Cod3r];
  - **JavaScript moderno**;
  - **Códigos documentados** (comentários enxutos e explicativos).
-#
-#### [↩️](#-menu)
-#
-## Gherkin Completo e BBD com JavaScript:
-![JavaScript](https://api.devicons.dev.br/icon?icons=JavaScript&size=48&theme=light&perline=30)
-
- - [Escrita de cenários de testes em Gherkin](https://medium.com/@atom.free/escrita-de-cen%C3%A1rios-em-gherkin-ff26b5f8c18f)
- 
- - [JavaScript para QAs -Parte 3: BDD na prática com controle de fluxo](https://medium.com/@atom.free/javascript-para-qas-parte2-bdd-na-pr%C3%A1tica-com-controle-de-fluxo-d16c6d8d5cfc) 
+# 
 
 #
 #### [↩️](#-menu)
