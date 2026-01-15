@@ -370,7 +370,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #
 
 ## Linux e AWS: 
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux2CAWS&size=48&theme=light&perline=30)
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux%2CAWS&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
