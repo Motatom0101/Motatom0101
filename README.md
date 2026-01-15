@@ -11,7 +11,7 @@
 
 [🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
 [🔍**Projetos**](#projetos)
-[🔍**Meus Artigos**](#-documentação-do-meu-aprendizado-%E2%80%8D)
+[🔍**Meus Artigos QA**](#-documentação-do-meu-aprendizado-%E2%80%8D)
 [🔍**Mais Programação**](#mais-programação)
 [🔍**Linux**](#linux)
 [🔍**Git/GitHub**](#gitgithub)
