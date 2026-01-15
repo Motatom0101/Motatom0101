@@ -81,7 +81,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #### [↩️](#-menu)
 #
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin):
-![JavaScript](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript&size=48&theme=light&perline=30)
+![JavaScript](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
 
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
