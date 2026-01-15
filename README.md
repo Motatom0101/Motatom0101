@@ -88,7 +88,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
  - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
 #
 #
-## JavaScript, DOM, HTML e CSS, Gherkin e BDD:
+## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
 <details>
