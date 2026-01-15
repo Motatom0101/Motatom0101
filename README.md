@@ -259,7 +259,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 # Mais Programação:
 ## Python - Lógica de Programação & POO:
 
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Python&size=48&theme=light&perline=30)
+![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux%2CPython&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -355,7 +355,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## Java: 
-![Java](https://api.devicons.dev.br/icon?icons=Java&size=48&theme=light&perline=30)
+![Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
