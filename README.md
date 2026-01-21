@@ -5,7 +5,7 @@
 #### 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
-[![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin%2CJira&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+[![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 #
 ### 🎯 Menu:
 
