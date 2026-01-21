@@ -41,14 +41,14 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Gestão:** Criação de **Plano de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Excel**.
 
- - **Metodologia:** conhecimentos sobre o fluxo de trabalho de **times ágeis** e da metodologia **SCRUM & Kanban**.
+ - **Metodologia:** conhecimentos sobre o fluxo de trabalho de **times ágeis** com a metodologia **SCRUM & Kanban**.
 
 ### 2. Automação de Testes & Linguagens
- - **Automação Web:** Estudos e projetos em **Cypress**.
+ - Automação Web:  **Cypress**.
 
- - **Testes de API:** Aprofundamento em testes de API utilizando **Postman**.
+ - Testes em API: **Postman**.
 
- - **Linguagens de Programação:** Conhecimentos em **Lógica** de Programação e **POO** com **Python** e **JavaScript Puro**, além de fundamentos Web com **JS/HTML/CSS**.
+ - Linguagens de Programação: **Python****JavaScript/HTML/CSS**.
 
 ### 3. Ferramentas, Infraestrutura & Soft Skills
 Categoria	Habilidades & Ferramentas:
