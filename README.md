@@ -39,7 +39,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - **Requisitos e Escopo:** Análise de Requisitos, Critérios Aceite, Regras de Negócio, Elaboração de User Stories e linguagem **Gherkin**.
 
- - **Gestão:** Criação de **Plano de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Jira e Excel**.
+ - **Gestão:** Criação de **Plano de Testes**, **Gerenciamento e Documentação de Bugs** utilizando **Excel**.
 
  - **Metodologia:** conhecimentos sobre o fluxo de trabalho de **times ágeis** e da metodologia **SCRUM & Kanban**.
 
