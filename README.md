@@ -48,7 +48,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - Testes em API: **Postman**.
 
- - Linguagens de Programação: **Python****JavaScript/HTML/CSS**.
+ - Linguagens de Programação: **Python**, **JavaScript/HTML/CSS**.
 
 ### 3. Ferramentas, Infraestrutura & Soft Skills
 Categoria	Habilidades & Ferramentas:
