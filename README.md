@@ -52,7 +52,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
 ### 3. Ferramentas, Infraestrutura & Soft Skills
 Categoria	Habilidades & Ferramentas:
-   - **Controle de Versão:**	Git / GitHub
+   - **Controle de Versão | CI:**	Git / GitHub / GitHub Actions
    - **Banco de Dados:**	SQL (PostgreSQL), Noções de BigQuery (GCP), MySQL
    - **Infraestrutura:**	Linux, Redes, puTTY, AWS, API
    - **Monitoramento:**	Zabbix, Grafana
