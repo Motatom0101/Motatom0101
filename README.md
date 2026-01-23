@@ -1,12 +1,6 @@
 #
 # 🧑‍💻 Olá! Sou o Tiago. 👋
 #
-#
-#### 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
-
-[![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin&size=48&theme=light&perline=30)](https://devicons.dev.br/)
-#
 ### 🎯 Menu:
 
 [🔍**Sobre mim**](#-qa-engineer-em-construção--foco-em-shift-left--automação)
@@ -21,6 +15,13 @@
 [🔍**Contato**](#portfólio-e-contato-profissional)
 
 #
+#
+#### 🛠 Principais Ferramentas com as quais já trabalhei ou trabalho 🛠:
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CVSCode%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CMySQL%2CPostman%2CCypress%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+
+[![Skills02](https://api.devicons.dev.br/icon?icons=Gherkin&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+#
+
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
 Sou um apaixonado por tecnologia, **autodidata** e profissional QA Engineer em construção. Desde o começo de 2025 em formação intensiva para me tornar um QA (Quality Assurance) Engineer com a filosofia **Shift Left**. 
 
