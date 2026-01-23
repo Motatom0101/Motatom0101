@@ -7,7 +7,7 @@
 [🔍**Projetos**](#projetos)
 [🔍**Meus Artigos QA**](#-documentação-do-meu-aprendizado-%E2%80%8D)
 [🔍**Mais Programação**](#mais-programação)
-[🔍**Linux**](#linux)
+[🔍**Linux**](#linux-e-aws)
 [🔍**Git/GitHub**](#gitgithub)
 [🔍**SQL**](#sql-no-bigquery-gcp-google-cloud-plataform)
 [🔍**Redes** & **monitoramento**](#redes-e-monitoramento-zabbix)
