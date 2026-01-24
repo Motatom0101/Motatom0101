@@ -75,14 +75,14 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 # Projetos: 
 ## Testando APIs com Postman:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
+![JavaScript10](https://api.devicons.dev.br/icon?icons=Postman%2CJavaScript&size=48&theme=light&perline=30)
 
 [Repositório:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 #
 #### [↩️](#-menu)
 #
 ## Automação de teste Web Com Cypress, JavaScript e Cucumber (gherkin):
-![JavaScript](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
+![JavaScript11](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
 
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
@@ -90,7 +90,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
+![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -116,7 +116,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #### [↩️](#-menu)
 #
 ## JavaScript Puro Completo:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
+![JavaScript13](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
 
 🔗[Repositório](https://github.com/Motatom0101/JavaScript-Completo): Neste repositório, estou documentando o curso completo de JavaScript da Danki Code que estou estudando.
 Veremos os seguintes temas:
@@ -260,7 +260,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 # Mais Programação:
 ## Python - Lógica de Programação & POO:
 
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux%2CPython&size=48&theme=light&perline=30)
+![JavaScript14](https://api.devicons.dev.br/icon?icons=Linux%2CPython&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -288,7 +288,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## Python & Selenium:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
+![JavaScript15](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
 
 <details>
 <summary>               
@@ -307,7 +307,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## Python, Postman e API:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
+![JavaScript16](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -331,7 +331,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## Python e AWS:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
+![JavaScript17](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -373,7 +373,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## Linux e AWS: 
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Linux%2CAWS&size=48&theme=light&perline=30)
+![JavaScript18](https://api.devicons.dev.br/icon?icons=Linux%2CAWS&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -407,7 +407,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## Git/GitHub:
-![JavaScript1](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
+![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -440,7 +440,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.free)", **desde 09/05/20
 #### [↩️](#-menu)
 #
 ## SQL no BigQuery (GCP: Google Cloud Plataform):
-![JavaScript1](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
+![JavaScript199](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
