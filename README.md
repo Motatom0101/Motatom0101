@@ -236,11 +236,11 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 </summary>
 <a name="Expandir documento"></a>
  
-- [Repositório 01:](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com **testes em APIs com Postman** e suas **principais features**.
+- [**Projeto_01:**](https://github.com/Motatom0101/Postman_1/tree/main) Este repositório contém a documentação dos meus estudos com **testes em APIs com Postman** e suas **principais features**.
 
-- [Repositório 02: **Projeto do manual à automação no CI/CD com GitHub Action**](https://github.com/QActions87/serveRestAPIProject/tree/main).  Criação de **testes de API do manual ao CI/CD utilizando Postman, newman e newman-htmlextra**.
+- [**Projeto_02: Projeto do manual à automação no CI/CD com GitHub Action**](https://github.com/QActions87/serveRestAPIProject/tree/main).  Criação de **testes de API do manual ao CI/CD utilizando Postman, newman e newman-htmlextra**.
 
-- [Repositório 03: **Projeto Manual**](https://github.com/QActions87/Dominando-Postman-Do-Teste-Manual-a-Performance-APIs/tree/main).  Além do projeto documentado no Medium, aqui entenderemos alguns conceitos e estruturas como o **JSON e HTTP** mais a fundo.
+- [**Projeto_03: Projeto Manual**](https://github.com/QActions87/Dominando-Postman-Do-Teste-Manual-a-Performance-APIs/tree/main).  Além do projeto documentado no Medium, aqui entenderemos alguns conceitos e estruturas como o **JSON e HTTP** mais a fundo.
 
 </details>
 
