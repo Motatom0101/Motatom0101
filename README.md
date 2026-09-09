@@ -173,12 +173,41 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 </details>
 
 #
+## Java com Selenium - Teste de UI:
+![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CSelenium%2CMaven&size=48&theme=dark&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Projeto_03:**](https://github.com/QActions87/JAVA-SELENIUM-POM) 3º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**. Desta vez usei o **WebDriver 4**, o que torna desnecessário baixar o driver do navegador cliente. Além disso, a ideia deste projeto é focar no padrão **Page Object Model**.
+
+</details>
+
+#
+#
+## Java com Rest Assured - Teste de API:
+![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CMaven&size=48&theme=dark&perline=30)
+
+<details>
+<summary>               
+ <a>Expandir documento</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Projeto_01:**](https://github.com/QActions87/JAVA_RESTASSURED_I) 1º projeto de **automação de testes em API**, desenvolvido com **Java, JUnit 4, Maven e Rest Assured**.
+
+</details>
+
+#
 #
 #### [↩️](#-menu)
 #
 # Projetos: 
 #
-## Java com Selenium - Teste de UI:
+## Java com Selenium - Teste de UI (Projetos):
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CSelenium%2CMaven&size=48&theme=dark&perline=30)
 
 <details>
